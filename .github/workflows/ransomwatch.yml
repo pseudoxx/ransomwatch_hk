@@ -2,7 +2,7 @@ name: ransomwatch
 
 on:
   schedule:
-    - cron: '0 */2 * * *'
+    - cron: '0 */1 * * *'
   workflow_dispatch:
 
 # to consider: the use of action jobs to breakout each task
@@ -27,14 +27,14 @@ jobs:
         run: |
           python3 ransomwatch.py scrape
       - name: run parser
-        env: 
-          DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK }}
-          DISCORD_WEBHOOK_2: ${{ secrets.DISCORD_WEBHOOK_2 }}
-          MS_TEAMS_WEBHOOK: ${{ secrets.MS_TEAMS_WEBHOOK }}
-          X_CONSUMER_KEY: ${{ secrets.X_CONSUMER_KEY }}
-          X_CONSUMER_SECRET: ${{ secrets.X_CONSUMER_SECRET }}
-          X_ACCESS_TOKEN: ${{ secrets.X_ACCESS_TOKEN }}
-          X_ACCESS_TOKEN_SECRET: ${{ secrets.X_ACCESS_TOKEN_SECRET }}
+        #env: 
+          #DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK }}
+          #DISCORD_WEBHOOK_2: ${{ secrets.DISCORD_WEBHOOK_2 }}
+         # MS_TEAMS_WEBHOOK: ${{ secrets.MS_TEAMS_WEBHOOK }}
+#          X_CONSUMER_KEY: ${{ secrets.X_CONSUMER_KEY }}
+         # X_CONSUMER_SECRET: ${{ secrets.X_CONSUMER_SECRET }}
+         # X_ACCESS_TOKEN: ${{ secrets.X_ACCESS_TOKEN }}
+        #  X_ACCESS_TOKEN_SECRET: ${{ secrets.X_ACCESS_TOKEN_SECRET }}
         run: |
           python3 ransomwatch.py parse
       - name: generate markdown & graphs for docsify
@@ -51,6 +51,3 @@ jobs:
           git config user.email 41898282+github-actions[bot]@users.noreply.github.com
           git commit --all --message "𝚌𝚛𝚘𝚗𝚋𝚘𝚝" || echo "no changes to commit"
           git push
-      - name: ping c2 beep bop
-        run: |
-          curl -sSf "https://betteruptime.com/api/v1/heartbeat/${{ secrets.HEARTBEAT_SECRET }}"
