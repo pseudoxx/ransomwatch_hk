@@ -60743,5 +60743,20 @@
         "post_title": "luzan5.com",
         "group_name": "blackout",
         "discovered": "2024-07-14 10:53:23.578392"
+    },
+    {
+        "post_title": "www.eurostrand.de/",
+        "group_name": "ransomhub",
+        "discovered": "2024-07-14 18:48:32.134291"
+    },
+    {
+        "post_title": "www.lynchaluminum.com/",
+        "group_name": "ransomhub",
+        "discovered": "2024-07-14 18:48:32.360112"
+    },
+    {
+        "post_title": "www.netavent.dk/",
+        "group_name": "ransomhub",
+        "discovered": "2024-07-14 18:48:32.440148"
     }
 ]
