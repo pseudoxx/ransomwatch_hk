@@ -4,6 +4,9 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-07-15 | [`Goede, DeBoest & Cross, PLLC.`](https://google.com/search?q=Goede%2C+DeBoest+%26+Cross%2C+PLLC.) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
+| 2024-07-15 | [`Posi+`](https://google.com/search?q=Posi%2B) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
+| 2024-07-15 | [`CDS, a Hewlett Packard Enterprise company`](https://google.com/search?q=CDS%2C+a+Hewlett+Packard+Enterprise+company) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2024-07-15 | [`RZO`](https://google.com/search?q=RZO) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-07-15 | [`MS Ultrasonic Technology Group`](https://google.com/search?q=MS+Ultrasonic+Technology+Group) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-07-15 | [`Gibbs Hurley Chartered Accountants`](https://google.com/search?q=Gibbs+Hurley+Chartered+Accountants) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
@@ -201,6 +204,3 @@ _last `200` posts_
 | 2024-06-24 | [`Compagnia Trasporti Integrati S.R.L`](https://google.com/search?q=Compagnia+Trasporti+Integrati+S.R.L) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
 | 2024-06-24 | [`VTWin.ca`](https://google.com/search?q=VTWin.ca) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
 | 2024-06-24 | [`www.sicoob.com.br`](https://google.com/search?q=www.sicoob.com.br) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-06-24 | [`www.liderit.es/`](https://google.com/search?q=www.liderit.es%2F) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-06-24 | [`multi-wing.com`](https://google.com/search?q=multi-wing.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-06-24 | [`bitzsoftwares.com.br`](https://google.com/search?q=bitzsoftwares.com.br) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
