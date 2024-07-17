@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-07-17 | [`labline.it`](https://google.com/search?q=labline.it) | [donutleaks](https://ransomwatch.telemetry.ltd/#/profiles?id=donutleaks) |
 | 2024-07-17 | [`ZSZAALEJI.cz `](https://google.com/search?q=ZSZAALEJI.cz+) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2024-07-17 | [`www.hlbpr.com`](https://google.com/search?q=www.hlbpr.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-07-17 | [`isometrix.com\$45.8M\USA\126GB\&lt;1% DISCLOSED`](https://google.com/search?q=isometrix.com%5C%2445.8M%5CUSA%5C126GB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-06-25 | [`Beckett Thermal Solu tions`](https://google.com/search?q=Beckett+Thermal+Solu+tions) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-06-25 | [`Utility Datacenter`](https://google.com/search?q=Utility+Datacenter) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-06-25 | [`decreditos.com`](https://google.com/search?q=decreditos.com) | [darkvault](https://ransomwatch.telemetry.ltd/#/profiles?id=darkvault) |
-| 2024-06-25 | [`http://www.sanglier.org.uk`](https://google.com/search?q=http%3A%2F%2Fwww.sanglier.org.uk) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
