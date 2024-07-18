@@ -522,5 +522,4 @@ def totelegram(post_title, group):
     async def main():
         await send_message(text=recordText, chat_id=os.environ.get('TELEGRAM_CHAT_ID'))
         
-    if __name__ == "__main__":
-        asyncio.run(main())
+    asyncio.run(main())
