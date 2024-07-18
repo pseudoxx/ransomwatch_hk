@@ -19,6 +19,21 @@ import lxml.html
 import requests
 from requests_oauthlib import OAuth1
 import tweepy
+import asyncio
+import telegram 
+from telegram.ext import ApplicationBuilder, ContextTypes, CommandHandler
+
+from langchain.agents import load_tools
+from langchain.agents import initialize_agent
+from langchain.llms import OpenAI
+from langchain.agents import AgentType
+
+from langchain.agents import tool
+from datetime import date
+from langchain_openai import ChatOpenAI
+from langchain_core.messages import HumanMessage
+
+model = ChatOpenAI(model="claude-3-5-sonnet-20240620")
 
 sockshost = '127.0.0.1'
 socksport = 9050
@@ -480,3 +495,32 @@ def totweet(post_title, group):
         errlog('x rate limit exceeded: ' + str(tmr))
     except Exception as e:
         errlog('x unhandled error: ' + str(e))
+        
+def totelegram(post_title, group):
+    tools = load_tools(["serpapi"])
+    agent = initialize_agent(tools, model, agent=AgentType.ZERO_SHOT_REACT_DESCRIPTION, verbose=True, handle_parsing_errors="Check you output, do not output an action and a final answer at the same time. Make sure you are returning the number only.")
+    ans = agent.run("Here is a string [{}] which uniquely points to an entity, it can be a URL, a string that contains a company name or other types. Analyse if the entity is based in Hong Kong and/or have business and/or operates in Hong Kong. If the answer is yes, return 1, if the answer is no, return 0, if you don't know, return -1. Do not return anything else.".format(post_title))
+    logging.basicConfig(
+        format='%(asctime)s - %(name)s - %(levelname)s - %(message)s',
+        level=logging.INFO
+    )
+    
+    if (ans == "1"):
+        presence = "Yes⚠️"
+    elif (ans == "0"):
+        presence = "No"
+    else:
+        presence = "Unknown"
+        
+    recordText = "<b>Hacker Group:</b> {}\n<b>Title:</b> {}\n<b>HK Presence:</b> {}".format(group, post_title, presence)
+    
+    bot = telegram.Bot(token=os.environ.get('TELEGRAM_BOT_TOKEN'))
+    async def send_message():
+        async with bot:
+            await bot.send_message(chat_id=os.environ.get('TELEGRAM_CHAT_ID'), text=recordText, parse_mode=telegram.ParseMode.HTML)
+        
+    async def main():
+        await send_message(text=recordText, chat_id=os.environ.get('TELEGRAM_CHAT_ID'))
+        
+    if __name__ == "__main__":
+        asyncio.run(main())
