@@ -26,6 +26,7 @@ jobs:
         run: |
           pip3 install -r requirements.txt
           pip install -U langchain-community
+          pip install google-search-results
       - name: run scraper
         env: 
           #DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK }}
