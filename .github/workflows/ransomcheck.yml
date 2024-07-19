@@ -14,6 +14,19 @@ jobs:
   torsocks-job:
     runs-on: ubuntu-latest
     timeout-minutes: 90
+    env: 
+          #DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK }}
+          #DISCORD_WEBHOOK_2: ${{ secrets.DISCORD_WEBHOOK_2 }}
+         # MS_TEAMS_WEBHOOK: ${{ secrets.MS_TEAMS_WEBHOOK }}
+#          X_CONSUMER_KEY: ${{ secrets.X_CONSUMER_KEY }}
+         # X_CONSUMER_SECRET: ${{ secrets.X_CONSUMER_SECRET }}
+         # X_ACCESS_TOKEN: ${{ secrets.X_ACCESS_TOKEN }}
+        #  X_ACCESS_TOKEN_SECRET: ${{ secrets.X_ACCESS_TOKEN_SECRET }}
+           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+           OPENAI_API_BASE: ${{ secrets.OPENAI_API_BASE }}
+           SERPAPI_API_KEY: ${{ secrets.SERPAPI_API_KEY }}
+           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
     services:
       torproxy:
         image: ghcr.io/joshhighet/torsocc:latest
@@ -27,21 +40,10 @@ jobs:
           pip3 install -r requirements.txt
           pip install -U langchain-community
           pip install google-search-results
-
+      - name: run scraper
+        run: |
+          python3 ransomwatch.py scrape
       - name: run parser
-        env: 
-          #DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK }}
-          #DISCORD_WEBHOOK_2: ${{ secrets.DISCORD_WEBHOOK_2 }}
-         # MS_TEAMS_WEBHOOK: ${{ secrets.MS_TEAMS_WEBHOOK }}
-#          X_CONSUMER_KEY: ${{ secrets.X_CONSUMER_KEY }}
-         # X_CONSUMER_SECRET: ${{ secrets.X_CONSUMER_SECRET }}
-         # X_ACCESS_TOKEN: ${{ secrets.X_ACCESS_TOKEN }}
-        #  X_ACCESS_TOKEN_SECRET: ${{ secrets.X_ACCESS_TOKEN_SECRET }}
-           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
-           OPENAI_API_BASE: ${{ secrets.OPENAI_API_BASE }}
-           SERPAPI_API_KEY: ${{ secrets.SERPAPI_API_KEY }}
-           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
-           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
         run: |
           python3 ransomwatch.py parse
       - name: generate markdown & graphs for docsify
