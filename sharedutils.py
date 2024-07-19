@@ -33,7 +33,7 @@ from datetime import date
 from langchain_openai import ChatOpenAI
 from langchain_core.messages import HumanMessage
 
-model = ChatOpenAI(model="claude-3-5-sonnet-20240620")
+model = ChatOpenAI(model="gpt-4o-mini")
 
 sockshost = '127.0.0.1'
 socksport = 9050
