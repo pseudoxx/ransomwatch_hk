@@ -172,6 +172,7 @@ def hiveleak():
     # egrep -o 'class="">([[:alnum:]]| |\.)+</h2>' source/hiveleak-hiveleak*.html | cut -d '>' -f 2 | cut -d '<' -f 1 && egrep -o 'class="lines">([[:alnum:]]| |\.)+</h2>' source/hiveleak-hiveleak*.html | cut -d '>' -f 2 | cut -d '<' -f 1 | sort -u
     # egrep -o 'class="lines">.*?</h2>' source/hiveleak-hiveleak*.html | cut -d '>' -f 2 | cut -d '<' -f 1 && egrep -o 'class="lines">.*?</h2>' source/hiveleak-hiveleak*.html | cut -d '>' -f 2 | cut -d '<' -f 1 | sort -u
     # jq -r '.[].title' source/hiveleak-hiveapi*.html || true
+    parser = ''
     posts = runshellcmd(parser)
     if len(posts) == 1:
         errlog('hiveleak: ' + 'parsing fail')
