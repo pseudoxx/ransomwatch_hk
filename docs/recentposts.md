@@ -4,6 +4,12 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-07-22 | [`https://leechlakegaming.com`](https://google.com/search?q=https%3A%2F%2Fleechlakegaming.com) | [cicada3301](https://ransomwatch.telemetry.ltd/#/profiles?id=cicada3301) |
+| 2024-07-22 | [`www.zepter.de/`](https://google.com/search?q=www.zepter.de%2F) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
+| 2024-07-22 | [`ceopag.com.br/`](https://google.com/search?q=ceopag.com.br%2F) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
+| 2024-07-22 | [`www.glowfm.nl`](https://google.com/search?q=www.glowfm.nl) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
+| 2024-07-22 | [`www.kumagaigumi.co.jp`](https://google.com/search?q=www.kumagaigumi.co.jp) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
+| 2024-07-22 | [`www.garudafood.com`](https://google.com/search?q=www.garudafood.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-07-22 | [`Doodle Tech`](https://google.com/search?q=Doodle+Tech) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
 | 2024-07-22 | [`A*****D`](https://google.com/search?q=A%2A%2A%2A%2A%2AD) | [flocker](https://ransomwatch.telemetry.ltd/#/profiles?id=flocker) |
 | 2024-07-22 | [`Law Offices of the Public Defender - New Mexico`](https://google.com/search?q=Law+Offices+of+the+Public+Defender+-+New+Mexico) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
@@ -198,9 +204,3 @@ _last `200` posts_
 | 2024-06-28 | [`midamea.com`](https://google.com/search?q=midamea.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-06-28 | [`www.harrisranchbeef.com/`](https://google.com/search?q=www.harrisranchbeef.com%2F) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-06-28 | [`multi-wing.com/`](https://google.com/search?q=multi-wing.com%2F) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-06-28 | [`iseta.fr/`](https://google.com/search?q=iseta.fr%2F) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-06-28 | [`bitzsoftwares.com.br/`](https://google.com/search?q=bitzsoftwares.com.br%2F) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-06-28 | [`Power Lube Industria l`](https://google.com/search?q=Power+Lube+Industria+l) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
-| 2024-06-28 | [`Wilmots (Legal servi ces)`](https://google.com/search?q=Wilmots+%28Legal+servi+ces%29) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
-| 2024-06-28 | [`ASI`](https://google.com/search?q=ASI) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2024-06-28 | [`Francesco Parisi`](https://google.com/search?q=Francesco+Parisi) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
