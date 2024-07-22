@@ -518,7 +518,7 @@ def totelegram(post_title, group):
     bot = telegram.Bot(token=os.environ.get('TELEGRAM_BOT_TOKEN'))
     async def send_message():
         async with bot:
-            await bot.send_message(chat_id=os.environ.get('TELEGRAM_CHAT_ID'), text=recordText, parse_mode=telegram.ParseMode.HTML)
+            await bot.send_message(chat_id=os.environ.get('TELEGRAM_CHAT_ID'), text=recordText, parse_mode=telegram.constants.ParseMode.HTML)
         
     async def main():
         await send_message()
