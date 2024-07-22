@@ -4,6 +4,12 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-07-22 | [`Doodle Tech`](https://google.com/search?q=Doodle+Tech) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
+| 2024-07-22 | [`A*****D`](https://google.com/search?q=A%2A%2A%2A%2A%2AD) | [flocker](https://ransomwatch.telemetry.ltd/#/profiles?id=flocker) |
+| 2024-07-22 | [`Law Offices of the Public Defender - New Mexico`](https://google.com/search?q=Law+Offices+of+the+Public+Defender+-+New+Mexico) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
+| 2024-07-22 | [`Queens County Public Administrator`](https://google.com/search?q=Queens+County+Public+Administrator) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
+| 2024-07-22 | [`KickDown ESET company. No overpayments at 0% (renamed and update)`](https://google.com/search?q=KickDown+ESET+company.+No+overpayments+at+0%25+%28renamed+and+update%29) | [donutleaks](https://ransomwatch.telemetry.ltd/#/profiles?id=donutleaks) |
+| 2024-07-22 | [`KuiperCompagnons`](https://google.com/search?q=KuiperCompagnons) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2024-07-18 | [`Next step healthcar`](https://google.com/search?q=Next+step+healthcar) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2024-07-18 | [`Infomedika`](https://google.com/search?q=Infomedika) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2024-07-18 | [`Seamon Whiteside`](https://google.com/search?q=Seamon+Whiteside) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
@@ -198,9 +204,3 @@ _last `200` posts_
 | 2024-06-28 | [`Wilmots (Legal servi ces)`](https://google.com/search?q=Wilmots+%28Legal+servi+ces%29) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-06-28 | [`ASI`](https://google.com/search?q=ASI) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-06-28 | [`Francesco Parisi`](https://google.com/search?q=Francesco+Parisi) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
-| 2024-06-28 | [`Gestores Administrativos Reunidos`](https://google.com/search?q=Gestores+Administrativos+Reunidos) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
-| 2024-06-28 | [`www.mangimifusco.it`](https://google.com/search?q=www.mangimifusco.it) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-06-28 | [`www.cloudeurope.it`](https://google.com/search?q=www.cloudeurope.it) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-06-28 | [`coca-cola.com - Myanmar office`](https://google.com/search?q=coca-cola.com+-+Myanmar+office) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-06-28 | [`daniellegroup.com`](https://google.com/search?q=daniellegroup.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-06-28 | [`www.cipl.org.in`](https://google.com/search?q=www.cipl.org.in) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
