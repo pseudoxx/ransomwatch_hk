@@ -521,6 +521,6 @@ def totelegram(post_title, group):
             await bot.send_message(chat_id=os.environ.get('TELEGRAM_CHAT_ID'), text=recordText, parse_mode=telegram.ParseMode.HTML)
         
     async def main():
-        await send_message(text=recordText, chat_id=os.environ.get('TELEGRAM_CHAT_ID'))
+        await send_message()
         
     asyncio.run(main())
