@@ -40,9 +40,9 @@ jobs:
           pip3 install -r requirements.txt
           pip install -U langchain-community
           pip install google-search-results
-    #  - name: run scraper
-     #   run: |
-      #    python3 ransomwatch.py scrape
+      - name: run scraper
+        run: |
+          python3 ransomwatch.py scrape
       - name: run parser
         run: |
           python3 ransomwatch.py parse
