@@ -11,7 +11,7 @@ from datetime import datetime
 
 from sharedutils import openjson
 from sharedutils import runshellcmd
-from sharedutils import todiscord, toteams, totweet
+from sharedutils import todiscord, toteams, totweet, totelegram
 from sharedutils import stdlog, dbglog, errlog, honk
 
 # on macOS we use 'grep -oE' over 'grep -oP'
@@ -76,6 +76,8 @@ def appender(post_title, group_name):
         #    toteams(newpost['post_title'], newpost['group_name'])
         if os.environ.get('X_CONSUMER_KEY') is not None:
             totweet(newpost['post_title'], newpost['group_name'])
+        if os.environ.get('TELEGRAM_BOT_TOKEN') is not None:
+            totelegram(newpost['post_title'], newpost['group_name'])
 
 '''
 all parsers here are shell - mix of grep/sed/awk & perl - runshellcmd is a wrapper for subprocess.run
