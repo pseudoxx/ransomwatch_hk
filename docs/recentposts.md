@@ -4,6 +4,9 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-08-01 | [`warrendale-wagyu.co.uk`](https://google.com/search?q=warrendale-wagyu.co.uk) | [darkvault](https://ransomwatch.telemetry.ltd/#/profiles?id=darkvault) |
+| 2024-08-01 | [`text/html; charset=utf-8`](https://google.com/search?q=text%2Fhtml%3B+charset%3Dutf-8) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
+| 2024-08-01 | [`effinghamschools.com`](https://google.com/search?q=effinghamschools.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-08-01 | [`Adorna & Guzman Dentistry`](https://google.com/search?q=Adorna+%26+Guzman+Dentistry) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
 | 2024-08-01 | [`https://www.acsi.org/`](https://google.com/search?q=https%3A%2F%2Fwww.acsi.org%2F) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
 | 2024-08-01 | [`Peñoles`](https://google.com/search?q=Pe%C3%B1oles) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
@@ -201,6 +204,3 @@ _last `200` posts_
 | 2024-07-15 | [`Gibbs Hurley Chartered Accountants`](https://google.com/search?q=Gibbs+Hurley+Chartered+Accountants) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-07-15 | [`ComNet Communications`](https://google.com/search?q=ComNet+Communications) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-07-15 | [`Thompson Creek® Window Company`](https://google.com/search?q=Thompson+Creek%C2%AE+Window+Company) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
-| 2024-07-15 | [`Atos`](https://google.com/search?q=Atos) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
-| 2024-07-15 | [`greenlightbiosciences.com`](https://google.com/search?q=greenlightbiosciences.com) | [abyss](https://ransomwatch.telemetry.ltd/#/profiles?id=abyss) |
-| 2024-07-15 | [`valleylandtitleco.com - UPD`](https://google.com/search?q=valleylandtitleco.com+-+UPD) | [donutleaks](https://ransomwatch.telemetry.ltd/#/profiles?id=donutleaks) |
