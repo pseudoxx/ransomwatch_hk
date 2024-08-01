@@ -11,7 +11,7 @@ from datetime import datetime
 
 from sharedutils import openjson
 from sharedutils import runshellcmd
-from sharedutils import todiscord, toteams, totweet, totelegram
+from sharedutils import todiscord, toteams, totweet
 from sharedutils import stdlog, dbglog, errlog, honk
 
 # on macOS we use 'grep -oE' over 'grep -oP'
@@ -76,8 +76,6 @@ def appender(post_title, group_name):
         #    toteams(newpost['post_title'], newpost['group_name'])
         if os.environ.get('X_CONSUMER_KEY') is not None:
             totweet(newpost['post_title'], newpost['group_name'])
-        if os.environ.get('TELEGRAM_BOT_TOKEN') is not None:
-            totelegram(newpost['post_title'], newpost['group_name'])
 
 '''
 all parsers here are shell - mix of grep/sed/awk & perl - runshellcmd is a wrapper for subprocess.run
@@ -172,7 +170,6 @@ def hiveleak():
     # egrep -o 'class="">([[:alnum:]]| |\.)+</h2>' source/hiveleak-hiveleak*.html | cut -d '>' -f 2 | cut -d '<' -f 1 && egrep -o 'class="lines">([[:alnum:]]| |\.)+</h2>' source/hiveleak-hiveleak*.html | cut -d '>' -f 2 | cut -d '<' -f 1 | sort -u
     # egrep -o 'class="lines">.*?</h2>' source/hiveleak-hiveleak*.html | cut -d '>' -f 2 | cut -d '<' -f 1 && egrep -o 'class="lines">.*?</h2>' source/hiveleak-hiveleak*.html | cut -d '>' -f 2 | cut -d '<' -f 1 | sort -u
     # jq -r '.[].title' source/hiveleak-hiveapi*.html || true
-    parser = ''
     posts = runshellcmd(parser)
     if len(posts) == 1:
         errlog('hiveleak: ' + 'parsing fail')
@@ -1170,7 +1167,7 @@ def metaencryptor():
 def cloak():
     stdlog('parser: ' + 'cloak')
     parser = '''
-    grep '<h2 class="main__name">' source/cloak-*.html --no-filename | cut -d ">" -f2 | cut -d '<' -f 1
+    grep '<h2 class="main__name">' source/cloak-cloak7jp*.html --no-filename | cut -d ">" -f2 | cut -d '<' -f 1 && grep --no-filename -A 1 '<div class="card-body">' source/cloak-cloak.html | grep '<p class="card-text">' | cut -d '>' -f 2 | cut -d '<' -f 1 | grep -v test || true
     '''
     posts = runshellcmd(parser)
     if len(posts) == 1:
@@ -1552,7 +1549,7 @@ def cicada3301():
 def pryx():
     stdlog('parser: ' + 'pryx')
     parser = '''
-    grep '<td><a href="' source/pryx-*.html | cut -d '>' -f 3 | cut -d '<' -f 1 | sed 's/\[\*\] //g' | grep -v soon
+    grep '<td><a href="' source/pryx-*.html | cut -d '>' -f 3 | cut -d '<' -f 1 | sed 's/\[\*\] //g' | grep -v soon || true
     '''
     posts = runshellcmd(parser)
     if len(posts) == 1:
@@ -1570,3 +1567,91 @@ def braincipher():
         errlog('braincipher: ' + 'parsing fail')
     for post in posts:
         appender(post, 'braincipher')
+
+def FOG():
+    stdlog('parser: ' + 'FOG')
+    parser = '''
+    grep '<p class="pb-4 text-lg font-bold">' source/FOG-*.html | cut -d '>' -f 10 | cut -d '<' -f 1 | grep -v 00 || true
+    '''
+    posts = runshellcmd(parser)
+    if len(posts) == 1:
+        errlog('FOG: ' + 'parsing fail')
+    for post in posts:
+        appender(post, 'FOG')
+        
+def handala():
+    stdlog('parser: ' + 'handala')
+    parser = '''
+    grep '<h2 class="wp-block-post-title">' source/handala-*.html | cut -d '>' -f 3 | cut -d '<' -f 1 || true
+    '''
+    posts = runshellcmd(parser)
+    if len(posts) == 1:
+        errlog('handala: ' + 'parsing fail')
+    for post in posts:
+        appender(post, 'handala')
+
+def eldorado():
+    stdlog('parser: ' + 'eldorado')
+    parser = '''
+    grep '<h1 class="text-xl mb-2 text-decoration-underline">' source/eldorado-*.html | cut -d '>' -f 2 | cut -d '<' -f 1 || true
+    '''
+    posts = runshellcmd(parser)
+    if len(posts) == 1:
+        errlog('eldorado: ' + 'parsing fail')
+    for post in posts:
+        appender(post, 'eldorado')
+
+def vanirgroup():
+    stdlog('parser: ' + 'vanirgroup')
+    parser = '''
+    grep '</pre></p></div><p data-v-' source/vanirgroup-*.html | awk 'match($0, /projectName:"[^"]+"/) {while (match($0, /projectName:"[^"]+"/)) {print substr($0, RSTART+13, RLENGTH-14); $0 = substr($0, RSTART+RLENGTH)}}' || true
+    '''
+    posts = runshellcmd(parser)
+    if len(posts) == 1:
+        errlog('vanirgroup: ' + 'parsing fail')
+    for post in posts:
+        appender(post, 'vanirgroup')
+
+def ransomcortex():
+    stdlog('parser: ' + 'ransomcortex')
+    parser = '''
+    grep '<h2 class="entry-title">' source/ransomcortex-*.html | cut -d '>' -f 3 | cut -d '<' -f 1 || true
+    '''
+    posts = runshellcmd(parser)
+    if len(posts) == 1:
+        errlog('ransomcortex: ' + 'parsing fail')
+    for post in posts:
+        appender(post, 'ransomcortex')
+
+def madliberator():
+    stdlog('parser: ' + 'madliberator')
+    parser = '''
+    grep '<span class="blog-cat">' source/madliberator-*.html | cut -d '>' -f 2 | cut -d '<' -f 1 || true
+    '''
+    posts = runshellcmd(parser)
+    if len(posts) == 1:
+        errlog('madliberator: ' + 'parsing fail')
+    for post in posts:
+        appender(post, 'madliberator')
+
+def dispossessor():
+    stdlog('parser: ' + 'dispossessor')
+    parser = '''
+    cat source/dispossessor-e27z5*.html | jq '.data.items[].company_name' -r || true
+    '''
+    posts = runshellcmd(parser)
+    if len(posts) == 1:
+        errlog('dispossessor: ' + 'parsing fail')
+    for post in posts:
+        appender(post, 'dispossessor')
+
+def nullbulge():
+    stdlog('parser: ' + 'nullbulge')
+    parser = '''
+    grep '<div class="elem">' -A1 source/nullbulge-nullbulge.html | grep '<h6 class="hacked__font">' | cut -d '>' -f 2 | cut -d '<' -f 1 || true
+    '''
+    posts = runshellcmd(parser)
+    if len(posts) == 1:
+        errlog('nullbulge: ' + 'parsing fail')
+    for post in posts:
+        appender(post, 'nullbulge')
