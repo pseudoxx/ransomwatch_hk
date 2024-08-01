@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-08-01 | [`https://www.acsi.org/`](https://google.com/search?q=https%3A%2F%2Fwww.acsi.org%2F) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
 | 2024-08-01 | [`Peñoles`](https://google.com/search?q=Pe%C3%B1oles) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-08-01 | [`pioneerworldwide.com`](https://google.com/search?q=pioneerworldwide.com) | [embargo](https://ransomwatch.telemetry.ltd/#/profiles?id=embargo) |
 | 2024-08-01 | [`summervillepolice.com`](https://google.com/search?q=summervillepolice.com) | [embargo](https://ransomwatch.telemetry.ltd/#/profiles?id=embargo) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-07-15 | [`greenlightbiosciences.com`](https://google.com/search?q=greenlightbiosciences.com) | [abyss](https://ransomwatch.telemetry.ltd/#/profiles?id=abyss) |
 | 2024-07-15 | [`valleylandtitleco.com - UPD`](https://google.com/search?q=valleylandtitleco.com+-+UPD) | [donutleaks](https://ransomwatch.telemetry.ltd/#/profiles?id=donutleaks) |
 | 2024-07-14 | [`www.netavent.dk/`](https://google.com/search?q=www.netavent.dk%2F) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-07-14 | [`www.lynchaluminum.com/`](https://google.com/search?q=www.lynchaluminum.com%2F) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
