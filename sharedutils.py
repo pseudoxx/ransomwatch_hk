@@ -498,7 +498,7 @@ def totweet(post_title, group):
         
 def totelegram(post_title, group):
     stdlog('telegram entered - ' + 'group:' + group + ' title:' + post_title)
-    tools = load_tools(["serpapi"])
+    tools = load_tools(["google-serper"])
     agent = initialize_agent(tools, model, agent=AgentType.ZERO_SHOT_REACT_DESCRIPTION, verbose=True, handle_parsing_errors="Check you output, do not output an action and a final answer at the same time. Make sure you are returning the number only.")
     ans = agent.run("Here is a string [{}] which uniquely points to an entity, it can be a URL, a string that contains a company name or other types. Analyse if the entity is based in Hong Kong and/or have business and/or operates in Hong Kong. Be aware that some of its employees are from HK doesn't mean that it has a HK presence. At lease an office/a subsidiary is needed. If the answer is yes, return 1, if the answer is no, return 0, if you don't know, return -1. Do not return anything else.".format(post_title))
     logging.basicConfig(
