@@ -4,6 +4,9 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-08-02 | [`www.normandydiesel.fr`](https://google.com/search?q=www.normandydiesel.fr) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
+| 2024-08-02 | [`www.bahia-principe.com`](https://google.com/search?q=www.bahia-principe.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
+| 2024-08-02 | [`retaildatallc.com`](https://google.com/search?q=retaildatallc.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-08-02 | [`Keystone Engineering`](https://google.com/search?q=Keystone+Engineering) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
 | 2024-08-02 | [`Kemlon Products &amp; Development Co Inc`](https://google.com/search?q=Kemlon+Products+%26amp%3B+Development+Co+Inc) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
 | 2024-08-02 | [`q-cells.de`](https://google.com/search?q=q-cells.de) | [abyss](https://ransomwatch.telemetry.ltd/#/profiles?id=abyss) |
@@ -201,6 +204,3 @@ _last `200` posts_
 | 2024-07-15 | [`www.baiminstitute.org`](https://google.com/search?q=www.baiminstitute.org) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-07-15 | [`Amino Transport`](https://google.com/search?q=Amino+Transport) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-07-15 | [`integraservices`](https://google.com/search?q=integraservices) | [mallox](https://ransomwatch.telemetry.ltd/#/profiles?id=mallox) |
-| 2024-07-15 | [`XENAPP-GLOBER`](https://google.com/search?q=XENAPP-GLOBER) | [mallox](https://ransomwatch.telemetry.ltd/#/profiles?id=mallox) |
-| 2024-07-15 | [`Gramercy Surgery Center`](https://google.com/search?q=Gramercy+Surgery+Center) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
-| 2024-07-15 | [`Goede, DeBoest & Cross, PLLC.`](https://google.com/search?q=Goede%2C+DeBoest+%26+Cross%2C+PLLC.) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
