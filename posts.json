@@ -61883,5 +61883,10 @@
         "post_title": "Speed Advisory Data Leak",
         "group_name": "everest",
         "discovered": "2024-08-05 13:51:23.041110"
+    },
+    {
+        "post_title": "https://www.squareonecoatingsystems.com",
+        "group_name": "cicada3301",
+        "discovered": "2024-08-05 15:47:07.400361"
     }
 ]
