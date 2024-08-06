@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-08-06 | [`Casco Antiguo`](https://google.com/search?q=Casco+Antiguo) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-08-06 | [`Fractalia Group`](https://google.com/search?q=Fractalia+Group) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-08-06 | [`leonardssyrups.com\$22M\USA\575GB\100% DISCLOSED`](https://google.com/search?q=leonardssyrups.com%5C%2422M%5CUSA%5C575GB%5C100%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2024-08-06 | [`westernwyomingbeverages.com\$59.2M\USA\102GB\100% DISCLOSED`](https://google.com/search?q=westernwyomingbeverages.com%5C%2459.2M%5CUSA%5C102GB%5C100%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-07-17 | [`Hayden Power Group`](https://google.com/search?q=Hayden+Power+Group) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-07-17 | [`C???o???m`](https://google.com/search?q=C%3F%3F%3Fo%3F%3F%3Fm) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-07-17 | [`labline.it`](https://google.com/search?q=labline.it) | [donutleaks](https://ransomwatch.telemetry.ltd/#/profiles?id=donutleaks) |
-| 2024-07-17 | [`ZSZAALEJI.cz `](https://google.com/search?q=ZSZAALEJI.cz+) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
