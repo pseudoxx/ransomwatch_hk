@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-08-07 | [`Bayhealth Hospital`](https://google.com/search?q=Bayhealth+Hospital) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2024-08-07 | [`amplicon.com`](https://google.com/search?q=amplicon.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-08-07 | [`infotexim.pe`](https://google.com/search?q=infotexim.pe) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-08-07 | [`A****N`](https://google.com/search?q=A%2A%2A%2A%2AN) | [flocker](https://ransomwatch.telemetry.ltd/#/profiles?id=flocker) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-07-18 | [`Northeast Rehabilitation Hospital Network`](https://google.com/search?q=Northeast+Rehabilitation+Hospital+Network) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-07-18 | [`aedifica.com/`](https://google.com/search?q=aedifica.com%2F) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-07-18 | [`all-mode.com`](https://google.com/search?q=all-mode.com) | [donutleaks](https://ransomwatch.telemetry.ltd/#/profiles?id=donutleaks) |
-| 2024-07-18 | [`www.erma-rtmo.it`](https://google.com/search?q=www.erma-rtmo.it) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
