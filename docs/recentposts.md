@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-08-07 | [`Anderson Oil & Gas`](https://google.com/search?q=Anderson+Oil+%26+Gas) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-08-07 | [`kempe.com.au`](https://google.com/search?q=kempe.com.au) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-08-07 | [`bonatra.com`](https://google.com/search?q=bonatra.com) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
 | 2024-08-06 | [`True Blue Environmental`](https://google.com/search?q=True+Blue+Environmental) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-07-18 | [`metalfrio.com.br`](https://google.com/search?q=metalfrio.com.br) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-07-18 | [`www.newcastlewa.gov`](https://google.com/search?q=www.newcastlewa.gov) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-07-18 | [`pgd.pl`](https://google.com/search?q=pgd.pl) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-07-18 | [`Lacey Serrano`](https://google.com/search?q=Lacey+Serrano) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
