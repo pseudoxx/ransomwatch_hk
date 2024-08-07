@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-08-07 | [`Arcmed Group`](https://google.com/search?q=Arcmed+Group) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-08-07 | [`hudsoncivil.com.au`](https://google.com/search?q=hudsoncivil.com.au) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-08-07 | [`www.jgsummit.com.ph`](https://google.com/search?q=www.jgsummit.com.ph) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-08-07 | [`Bayhealth Hospital`](https://google.com/search?q=Bayhealth+Hospital) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-07-18 | [`Infomedika`](https://google.com/search?q=Infomedika) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2024-07-18 | [`Seamon Whiteside`](https://google.com/search?q=Seamon+Whiteside) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-07-18 | [`Santa Rosa`](https://google.com/search?q=Santa+Rosa) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
-| 2024-07-18 | [`Northeast Rehabilitation Hospital Network`](https://google.com/search?q=Northeast+Rehabilitation+Hospital+Network) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
