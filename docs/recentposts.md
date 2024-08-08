@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-08-08 | [`demos.fr\$37.5M\France\870GB\100% DISCLOSED`](https://google.com/search?q=demos.fr%5C%2437.5M%5CFrance%5C870GB%5C100%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2024-08-08 | [`tibaitservices.com\$124.3M\Mexico\29GB\&lt;1% DISCLOSED`](https://google.com/search?q=tibaitservices.com%5C%24124.3M%5CMexico%5C29GB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2024-08-08 | [`mihlfeld.com\$88.2M\USA\316GB\&lt;1% DISCLOSED`](https://google.com/search?q=mihlfeld.com%5C%2488.2M%5CUSA%5C316GB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2024-08-08 | [`comoferta.com`](https://google.com/search?q=comoferta.com) | [darkvault](https://ransomwatch.telemetry.ltd/#/profiles?id=darkvault) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-07-22 | [`Doodle Tech`](https://google.com/search?q=Doodle+Tech) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
 | 2024-07-22 | [`A*****D`](https://google.com/search?q=A%2A%2A%2A%2A%2AD) | [flocker](https://ransomwatch.telemetry.ltd/#/profiles?id=flocker) |
 | 2024-07-22 | [`Law Offices of the Public Defender - New Mexico`](https://google.com/search?q=Law+Offices+of+the+Public+Defender+-+New+Mexico) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
-| 2024-07-22 | [`Queens County Public Administrator`](https://google.com/search?q=Queens+County+Public+Administrator) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
