@@ -4,6 +4,9 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-08-08 | [`modernceramics.com`](https://google.com/search?q=modernceramics.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
+| 2024-08-08 | [`Gramercy Surgery Center Data Leak`](https://google.com/search?q=Gramercy+Surgery+Center+Data+Leak) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
+| 2024-08-08 | [`Gramercy Surgery Center  Data  Leak`](https://google.com/search?q=Gramercy+Surgery+Center++Data++Leak) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2024-08-08 | [`https://imagemicro.com/`](https://google.com/search?q=https%3A%2F%2Fimagemicro.com%2F) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
 | 2024-08-08 | [`[DISCLOSED] Al-Karam Textile Mills Pvt`](https://google.com/search?q=%5BDISCLOSED%5D+Al-Karam+Textile+Mills+Pvt) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2024-08-08 | [`demos.fr\$37.5M\France\870GB\100% DISCLOSED`](https://google.com/search?q=demos.fr%5C%2437.5M%5CFrance%5C870GB%5C100%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
@@ -201,6 +204,3 @@ _last `200` posts_
 | 2024-07-22 | [`www.zepter.de/`](https://google.com/search?q=www.zepter.de%2F) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-07-22 | [`ceopag.com.br/`](https://google.com/search?q=ceopag.com.br%2F) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-07-22 | [`www.glowfm.nl`](https://google.com/search?q=www.glowfm.nl) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-07-22 | [`www.kumagaigumi.co.jp`](https://google.com/search?q=www.kumagaigumi.co.jp) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-07-22 | [`www.garudafood.com`](https://google.com/search?q=www.garudafood.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-07-22 | [`Doodle Tech`](https://google.com/search?q=Doodle+Tech) | [arcusmedia](https://ransomwatch.telemetry.ltd/#/profiles?id=arcusmedia) |
