@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-08-08 | [`rationalenterprise.com`](https://google.com/search?q=rationalenterprise.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
+| 2024-08-08 | [`inv-dar.com`](https://google.com/search?q=inv-dar.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-08-08 | [`modernceramics.com`](https://google.com/search?q=modernceramics.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-08-08 | [`Gramercy Surgery Center Data Leak`](https://google.com/search?q=Gramercy+Surgery+Center+Data+Leak) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2024-08-08 | [`Gramercy Surgery Center  Data  Leak`](https://google.com/search?q=Gramercy+Surgery+Center++Data++Leak) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2024-07-22 | [`RiverSoft`](https://google.com/search?q=RiverSoft) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2024-07-22 | [`https://leechlakegaming.com`](https://google.com/search?q=https%3A%2F%2Fleechlakegaming.com) | [cicada3301](https://ransomwatch.telemetry.ltd/#/profiles?id=cicada3301) |
 | 2024-07-22 | [`www.zepter.de/`](https://google.com/search?q=www.zepter.de%2F) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-07-22 | [`ceopag.com.br/`](https://google.com/search?q=ceopag.com.br%2F) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-07-22 | [`www.glowfm.nl`](https://google.com/search?q=www.glowfm.nl) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
