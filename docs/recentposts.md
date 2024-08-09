@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-08-09 | [`Nilorngruppen AB`](https://google.com/search?q=Nilorngruppen+AB) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2024-08-09 | [`Credible Group`](https://google.com/search?q=Credible+Group) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-08-09 | [`Anniversary Holding Company`](https://google.com/search?q=Anniversary+Holding+Company) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-08-09 | [`GCA Global Cargo Alliance`](https://google.com/search?q=GCA+Global+Cargo+Alliance) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-08-09 | [`Majestic Metals`](https://google.com/search?q=Majestic+Metals) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2024-08-01 | [`Valisana`](https://google.com/search?q=Valisana) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2024-08-01 | [`Lago Group Spa`](https://google.com/search?q=Lago+Group+Spa) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2024-08-01 | [`Al-Karam Textile Mills Pvt`](https://google.com/search?q=Al-Karam+Textile+Mills+Pvt) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
-| 2024-08-01 | [`Lake Washington Institute of Technology`](https://google.com/search?q=Lake+Washington+Institute+of+Technology) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
-| 2024-08-01 | [`MEMC`](https://google.com/search?q=MEMC) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
