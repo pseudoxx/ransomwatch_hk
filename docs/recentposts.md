@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-08-11 | [`naturalcuriosities.com`](https://google.com/search?q=naturalcuriosities.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
+| 2024-08-11 | [`TelPro`](https://google.com/search?q=TelPro) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-08-11 | [`Jeffersoncountyclerk.org`](https://google.com/search?q=Jeffersoncountyclerk.org) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-08-11 | [`Amco Metal Industrial Corporation`](https://google.com/search?q=Amco+Metal+Industrial+Corporation) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2024-08-11 | [`alliuminteriors.co.nz`](https://google.com/search?q=alliuminteriors.co.nz) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2024-08-01 | [`Anyone.. Who need some bags?`](https://google.com/search?q=Anyone..+Who+need+some+bags%3F) | [donutleaks](https://ransomwatch.telemetry.ltd/#/profiles?id=donutleaks) |
 | 2024-08-01 | [`Jack "Designer" Sparrow.`](https://google.com/search?q=Jack+%22Designer%22+Sparrow.) | [donutleaks](https://ransomwatch.telemetry.ltd/#/profiles?id=donutleaks) |
 | 2024-08-01 | [`Bunkhouse Group`](https://google.com/search?q=Bunkhouse+Group) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2024-08-01 | [`Insula Group`](https://google.com/search?q=Insula+Group) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2024-08-01 | [`Playa Vista Job Opportunities and Business Services`](https://google.com/search?q=Playa+Vista+Job+Opportunities+and+Business+Services) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
