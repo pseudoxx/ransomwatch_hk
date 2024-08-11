@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-08-11 | [`Moser Wealth Advisors`](https://google.com/search?q=Moser+Wealth+Advisors) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2024-08-11 | [`Hanon Systems`](https://google.com/search?q=Hanon+Systems) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-08-10 | [`lmgroup.com`](https://google.com/search?q=lmgroup.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-08-10 | [`Brontoo Technology Solutions`](https://google.com/search?q=Brontoo+Technology+Solutions) | [ransomexx](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomexx) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-08-01 | [`Augusta Orthopedic`](https://google.com/search?q=Augusta+Orthopedic) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-08-01 | [`Florence Cement Company, Inc.`](https://google.com/search?q=Florence+Cement+Company%2C+Inc.) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-08-01 | [`Karvo Companies, Inc.`](https://google.com/search?q=Karvo+Companies%2C+Inc.) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2024-08-01 | [`Sable International.`](https://google.com/search?q=Sable+International.) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
