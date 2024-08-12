@@ -513,7 +513,7 @@ def totelegram(post_title, group):
     else:
         presence = "Unknown"
         
-    recordText = "<b>Hacker Group:</b> <a href="{}">{}</a>\n<b>Title:</b> {}\n<b>HK Presence:</b> {}".format("https://ransomwatch.telemetry.ltd/#/profiles?id=" + group, group, post_title, presence)
+    recordText = "<b>Hacker Group:</b> <a href=\"{}\">{}</a>\n<b>Title:</b> {}\n<b>HK Presence:</b> {}".format("https://ransomwatch.telemetry.ltd/#/profiles?id=" + group, group, post_title, presence)
     
     bot = telegram.Bot(token=os.environ.get('TELEGRAM_BOT_TOKEN'))
     async def send_message():
