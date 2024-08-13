@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-08-13 | [`gpf.org.za`](https://google.com/search?q=gpf.org.za) | [darkvault](https://ransomwatch.telemetry.ltd/#/profiles?id=darkvault) |
+| 2024-08-13 | [`Southwest Family Medicine Associates`](https://google.com/search?q=Southwest+Family+Medicine+Associates) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-08-13 | [`lenmed.co.za`](https://google.com/search?q=lenmed.co.za) | [darkvault](https://ransomwatch.telemetry.ltd/#/profiles?id=darkvault) |
 | 2024-08-13 | [`https://www.banneracc.com/`](https://google.com/search?q=https%3A%2F%2Fwww.banneracc.com%2F) | [trinity](https://ransomwatch.telemetry.ltd/#/profiles?id=trinity) |
 | 2024-08-13 | [`Banner and Associates`](https://google.com/search?q=Banner+and+Associates) | [trinity](https://ransomwatch.telemetry.ltd/#/profiles?id=trinity) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2024-08-01 | [`Golden Business Machines`](https://google.com/search?q=Golden+Business+Machines) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-08-01 | [`Gendron & Gendron`](https://google.com/search?q=Gendron+%26+Gendron) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-08-01 | [`Gateway Extrusions`](https://google.com/search?q=Gateway+Extrusions) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2024-08-01 | [`Congoleum`](https://google.com/search?q=Congoleum) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2024-08-01 | [`forestparkga.gov`](https://google.com/search?q=forestparkga.gov) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
