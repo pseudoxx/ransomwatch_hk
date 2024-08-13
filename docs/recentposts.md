@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-08-13 | [`infotexim.pe&lt;Auction&gt;`](https://google.com/search?q=infotexim.pe%26lt%3BAuction%26gt%3B) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
+| 2024-08-13 | [`The White Center Community Development Association`](https://google.com/search?q=The+White+Center+Community+Development+Association) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2024-08-13 | [`gpf.org.za`](https://google.com/search?q=gpf.org.za) | [darkvault](https://ransomwatch.telemetry.ltd/#/profiles?id=darkvault) |
 | 2024-08-13 | [`Southwest Family Medicine Associates`](https://google.com/search?q=Southwest+Family+Medicine+Associates) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-08-13 | [`lenmed.co.za`](https://google.com/search?q=lenmed.co.za) | [darkvault](https://ransomwatch.telemetry.ltd/#/profiles?id=darkvault) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2024-08-01 | [`OfficeOps`](https://google.com/search?q=OfficeOps) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-08-01 | [`Odyssey Fitness Center`](https://google.com/search?q=Odyssey+Fitness+Center) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-08-01 | [`Golden Business Machines`](https://google.com/search?q=Golden+Business+Machines) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2024-08-01 | [`Gendron & Gendron`](https://google.com/search?q=Gendron+%26+Gendron) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2024-08-01 | [`Gateway Extrusions`](https://google.com/search?q=Gateway+Extrusions) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
