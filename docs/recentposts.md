@@ -4,6 +4,9 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-08-13 | [`https://www.banneracc.com/`](https://google.com/search?q=https%3A%2F%2Fwww.banneracc.com%2F) | [trinity](https://ransomwatch.telemetry.ltd/#/profiles?id=trinity) |
+| 2024-08-13 | [`Banner and Associates`](https://google.com/search?q=Banner+and+Associates) | [trinity](https://ransomwatch.telemetry.ltd/#/profiles?id=trinity) |
+| 2024-08-13 | [`glazkov.co.il`](https://google.com/search?q=glazkov.co.il) | [darkvault](https://ransomwatch.telemetry.ltd/#/profiles?id=darkvault) |
 | 2024-08-13 | [`https://www.vvs-eksperten.dk`](https://google.com/search?q=https%3A%2F%2Fwww.vvs-eksperten.dk) | [cicada3301](https://ransomwatch.telemetry.ltd/#/profiles?id=cicada3301) |
 | 2024-08-12 | [`NetOne`](https://google.com/search?q=NetOne) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-08-12 | [`bedford.k12.oh.us`](https://google.com/search?q=bedford.k12.oh.us) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
@@ -201,6 +204,3 @@ _last `200` posts_
 | 2024-08-01 | [`Congoleum`](https://google.com/search?q=Congoleum) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-08-01 | [`forestparkga.gov`](https://google.com/search?q=forestparkga.gov) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
 | 2024-08-01 | [`Regas (regasenergy.com)`](https://google.com/search?q=Regas+%28regasenergy.com%29) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
-| 2024-08-01 | [`KMLG`](https://google.com/search?q=KMLG) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
-| 2024-08-01 | [`EHS Partnerships`](https://google.com/search?q=EHS+Partnerships) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
-| 2024-08-01 | [`simple-solution-systems`](https://google.com/search?q=simple-solution-systems) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
