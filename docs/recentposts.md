@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-08-13 | [`http://www.forrec.it`](https://google.com/search?q=http%3A%2F%2Fwww.forrec.it) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
 | 2024-08-13 | [`Parker Development Company`](https://google.com/search?q=Parker+Development+Company) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-08-13 | [`M??? ????k ??????`](https://google.com/search?q=M%3F%3F%3F+%3F%3F%3F%3Fk+%3F%3F%3F%3F%3F%3F) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-08-13 | [`Erie Meats`](https://google.com/search?q=Erie+Meats) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-08-01 | [`siParadigm`](https://google.com/search?q=siParadigm) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-08-01 | [`Notarkammer Pfalz`](https://google.com/search?q=Notarkammer+Pfalz) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-08-01 | [`Win Systems`](https://google.com/search?q=Win+Systems) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
-| 2024-08-01 | [`crimsonwinegroup.com`](https://google.com/search?q=crimsonwinegroup.com) | [abyss](https://ransomwatch.telemetry.ltd/#/profiles?id=abyss) |
