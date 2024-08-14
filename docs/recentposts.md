@@ -4,6 +4,11 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-08-14 | [`police.praca.gov.pl`](https://google.com/search?q=police.praca.gov.pl) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
+| 2024-08-14 | [`Drug Testing Service`](https://google.com/search?q=Drug+Testing+Service) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
+| 2024-08-14 | [`Financial Advisors`](https://google.com/search?q=Financial+Advisors) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
+| 2024-08-14 | [`Texas Centers for Infectious Disease Associates`](https://google.com/search?q=Texas+Centers+for+Infectious+Disease+Associates) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
+| 2024-08-14 | [`Thompson Davis and Co`](https://google.com/search?q=Thompson+Davis+and+Co) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-08-14 | [`https://rplfirm.com`](https://google.com/search?q=https%3A%2F%2Frplfirm.com) | [cicada3301](https://ransomwatch.telemetry.ltd/#/profiles?id=cicada3301) |
 | 2024-08-14 | [`mmtransport.com`](https://google.com/search?q=mmtransport.com) | [dAn0n](https://ransomwatch.telemetry.ltd/#/profiles?id=dAn0n) |
 | 2024-08-13 | [`http://www.forrec.it`](https://google.com/search?q=http%3A%2F%2Fwww.forrec.it) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
@@ -199,8 +204,3 @@ _last `200` posts_
 | 2024-08-01 | [`SAGE Publishing`](https://google.com/search?q=SAGE+Publishing) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-08-01 | [`Environmental Design International`](https://google.com/search?q=Environmental+Design+International) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-08-01 | [`Empereon Constar`](https://google.com/search?q=Empereon+Constar) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
-| 2024-08-01 | [`SKC West`](https://google.com/search?q=SKC+West) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
-| 2024-08-01 | [`American Acryl`](https://google.com/search?q=American+Acryl) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
-| 2024-08-01 | [`Electroalfa`](https://google.com/search?q=Electroalfa) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
-| 2024-08-01 | [`CALDAN Conveyor`](https://google.com/search?q=CALDAN+Conveyor) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
-| 2024-08-01 | [`siParadigm`](https://google.com/search?q=siParadigm) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
