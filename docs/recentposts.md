@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-08-15 | [`www.atwoodcherny.com`](https://google.com/search?q=www.atwoodcherny.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
+| 2024-08-15 | [`IEMSC.com`](https://google.com/search?q=IEMSC.com) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2024-08-15 | [`www.isnart.it`](https://google.com/search?q=www.isnart.it) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-08-15 | [`Patterson Health Center`](https://google.com/search?q=Patterson+Health+Center) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2024-08-15 | [`http://www.fdsrl.it`](https://google.com/search?q=http%3A%2F%2Fwww.fdsrl.it) | [ciphbit](https://ransomwatch.telemetry.ltd/#/profiles?id=ciphbit) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2024-08-01 | [`https://ecfgroup.com/en/brand/reward-hospitality/;https://www.rewardhospitality.com.au/`](https://google.com/search?q=https%3A%2F%2Fecfgroup.com%2Fen%2Fbrand%2Freward-hospitality%2F%3Bhttps%3A%2F%2Fwww.rewardhospitality.com.au%2F) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
 | 2024-08-01 | [`http://www.pojoaque.org`](https://google.com/search?q=http%3A%2F%2Fwww.pojoaque.org) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
 | 2024-08-01 | [`http://rhinocorps.com`](https://google.com/search?q=http%3A%2F%2Frhinocorps.com) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
-| 2024-08-01 | [`http://www.chsd117.org`](https://google.com/search?q=http%3A%2F%2Fwww.chsd117.org) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
-| 2024-08-01 | [`Kusum Group of Companies`](https://google.com/search?q=Kusum+Group+of+Companies) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
