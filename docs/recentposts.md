@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-08-15 | [`www.isnart.it`](https://google.com/search?q=www.isnart.it) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
+| 2024-08-15 | [`Patterson Health Center`](https://google.com/search?q=Patterson+Health+Center) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2024-08-15 | [`http://www.fdsrl.it`](https://google.com/search?q=http%3A%2F%2Fwww.fdsrl.it) | [ciphbit](https://ransomwatch.telemetry.ltd/#/profiles?id=ciphbit) |
 | 2024-08-15 | [`[DISCLOSED]Sibanye-Stillwater`](https://google.com/search?q=%5BDISCLOSED%5DSibanye-Stillwater) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2024-08-15 | [`Liberty Resources`](https://google.com/search?q=Liberty+Resources) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2024-08-01 | [`http://rhinocorps.com`](https://google.com/search?q=http%3A%2F%2Frhinocorps.com) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
 | 2024-08-01 | [`http://www.chsd117.org`](https://google.com/search?q=http%3A%2F%2Fwww.chsd117.org) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
 | 2024-08-01 | [`Kusum Group of Companies`](https://google.com/search?q=Kusum+Group+of+Companies) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
-| 2024-08-01 | [`TheLutheranFoundation`](https://google.com/search?q=TheLutheranFoundation) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
-| 2024-08-01 | [`Melchers Singapore`](https://google.com/search?q=Melchers+Singapore) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
