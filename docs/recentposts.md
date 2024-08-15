@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-08-15 | [`Y*********I`](https://google.com/search?q=Y%2A%2A%2A%2A%2A%2A%2A%2A%2AI) | [flocker](https://ransomwatch.telemetry.ltd/#/profiles?id=flocker) |
 | 2024-08-14 | [`startaxi.com`](https://google.com/search?q=startaxi.com) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
 | 2024-08-14 | [`The Washington Times`](https://google.com/search?q=The+Washington+Times) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2024-08-14 | [`Boni`](https://google.com/search?q=Boni) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-08-01 | [`Find Great People`](https://google.com/search?q=Find+Great+People) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-08-01 | [`BRASPRESS`](https://google.com/search?q=BRASPRESS) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-08-01 | [`Macadam Europe`](https://google.com/search?q=Macadam+Europe) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
-| 2024-08-01 | [`Olschewski Davie`](https://google.com/search?q=Olschewski+Davie) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
