@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-08-16 | [`[DISCLOSED] Valisana`](https://google.com/search?q=%5BDISCLOSED%5D+Valisana) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2024-08-16 | [`BTS Biogas`](https://google.com/search?q=BTS+Biogas) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-08-16 | [`Sterling Rope`](https://google.com/search?q=Sterling+Rope) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2024-08-15 | [`ljglaw.com`](https://google.com/search?q=ljglaw.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-08-01 | [`denkaiamerica.com/\$18.1M\USA\80GB\&lt;1% DISCLOSED`](https://google.com/search?q=denkaiamerica.com%2F%5C%2418.1M%5CUSA%5C80GB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2024-08-01 | [`LawDepot`](https://google.com/search?q=LawDepot) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2024-08-01 | [`Community Care Alliance`](https://google.com/search?q=Community+Care+Alliance) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
-| 2024-08-01 | [`Computer Networking Solutions`](https://google.com/search?q=Computer+Networking+Solutions) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
