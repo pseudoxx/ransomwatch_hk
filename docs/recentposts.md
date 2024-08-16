@@ -4,6 +4,10 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-08-16 | [`www.patelco.org&lt;Auction&gt;`](https://google.com/search?q=www.patelco.org%26lt%3BAuction%26gt%3B) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
+| 2024-08-16 | [`SuperDrob S.A.`](https://google.com/search?q=SuperDrob+S.A.) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
+| 2024-08-16 | [`promises2kids.org `](https://google.com/search?q=promises2kids.org+) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
+| 2024-08-16 | [`Amco Metal Industrial Corporation `](https://google.com/search?q=Amco+Metal+Industrial+Corporation+) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2024-08-16 | [`Prefeitura do Jaboatão dos Guararapes`](https://google.com/search?q=Prefeitura+do+Jaboat%C3%A3o+dos+Guararapes) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2024-08-16 | [`on365.co.uk`](https://google.com/search?q=on365.co.uk) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2024-08-16 | [`ccj.edu.lb `](https://google.com/search?q=ccj.edu.lb+) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
@@ -200,7 +204,3 @@ _last `200` posts_
 | 2024-08-01 | [`Crownlea Group`](https://google.com/search?q=Crownlea+Group) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-08-01 | [`Betances Health Center`](https://google.com/search?q=Betances+Health+Center) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-08-01 | [`https://www.webasto.com`](https://google.com/search?q=https%3A%2F%2Fwww.webasto.com) | [metaencryptor](https://ransomwatch.telemetry.ltd/#/profiles?id=metaencryptor) |
-| 2024-08-01 | [`isometrix.com\$45.8M\USA\126GB\100% DISCLOSED`](https://google.com/search?q=isometrix.com%5C%2445.8M%5CUSA%5C126GB%5C100%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
-| 2024-08-01 | [`chubb-bulleid.co.uk\$14M\United Kingdom\362GB\&lt;1% DISCLOSED`](https://google.com/search?q=chubb-bulleid.co.uk%5C%2414M%5CUnited+Kingdom%5C362GB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
-| 2024-08-01 | [`leonardssyrups.com\$22M\USA\575GB\&lt;1% DISCLOSED`](https://google.com/search?q=leonardssyrups.com%5C%2422M%5CUSA%5C575GB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
-| 2024-08-01 | [`westernwyomingbeverages.com\$59.2M\USA\102GB\&lt;1% DISCLOSED`](https://google.com/search?q=westernwyomingbeverages.com%5C%2459.2M%5CUSA%5C102GB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
