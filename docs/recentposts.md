@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-08-17 | [`nrcollecties.nl`](https://google.com/search?q=nrcollecties.nl) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-08-17 | [`www.wmwmeyer.com`](https://google.com/search?q=www.wmwmeyer.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-08-16 | [`www.vinakom.com`](https://google.com/search?q=www.vinakom.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-08-16 | [`http://www.keios.it`](https://google.com/search?q=http%3A%2F%2Fwww.keios.it) | [ciphbit](https://ransomwatch.telemetry.ltd/#/profiles?id=ciphbit) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-08-01 | [`The Gill Corporation`](https://google.com/search?q=The+Gill+Corporation) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-08-01 | [`Priefert`](https://google.com/search?q=Priefert) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-08-01 | [`Physical & Occupational Therapy Examiners of Texas`](https://google.com/search?q=Physical+%26+Occupational+Therapy+Examiners+of+Texas) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
-| 2024-08-01 | [`Kleven Construction`](https://google.com/search?q=Kleven+Construction) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
