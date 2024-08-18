@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-08-18 | [`Mohawk Valley Cardiology PC`](https://google.com/search?q=Mohawk+Valley+Cardiology+PC) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
+| 2024-08-18 | [`PBC Companies`](https://google.com/search?q=PBC+Companies) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-08-18 | [`Cosmetic Dental Group`](https://google.com/search?q=Cosmetic+Dental+Group) | [trinity](https://ransomwatch.telemetry.ltd/#/profiles?id=trinity) |
 | 2024-08-18 | [`www.cosmeticdentalgroup.je`](https://google.com/search?q=www.cosmeticdentalgroup.je) | [trinity](https://ransomwatch.telemetry.ltd/#/profiles?id=trinity) |
 | 2024-08-17 | [`peoplewell.com`](https://google.com/search?q=peoplewell.com) | [darkvault](https://ransomwatch.telemetry.ltd/#/profiles?id=darkvault) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2024-08-01 | [`ach.co.th`](https://google.com/search?q=ach.co.th) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-08-01 | [`bpjaguar.com`](https://google.com/search?q=bpjaguar.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-08-01 | [`oficina.oficinadasfinancas.com.br`](https://google.com/search?q=oficina.oficinadasfinancas.com.br) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-08-01 | [`www.neurologicalinstitute.com`](https://google.com/search?q=www.neurologicalinstitute.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-08-01 | [`www.whittakersystem.com`](https://google.com/search?q=www.whittakersystem.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
