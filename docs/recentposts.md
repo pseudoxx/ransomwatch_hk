@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-08-20 | [`Akkanat Holding`](https://google.com/search?q=Akkanat+Holding) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-08-19 | [`imobesidade.com.br`](https://google.com/search?q=imobesidade.com.br) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-08-19 | [`rationalenterprise.com&lt;disclose&gt;`](https://google.com/search?q=rationalenterprise.com%26lt%3Bdisclose%26gt%3B) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-08-19 | [`Waynesboro Nurseries`](https://google.com/search?q=Waynesboro+Nurseries) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-08-01 | [`www.benchinternational.com/`](https://google.com/search?q=www.benchinternational.com%2F) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-08-01 | [`www.baiminstitute.org/`](https://google.com/search?q=www.baiminstitute.org%2F) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-08-01 | [`ita.ach.co.th/`](https://google.com/search?q=ita.ach.co.th%2F) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-08-01 | [`cminsulation.com/`](https://google.com/search?q=cminsulation.com%2F) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
