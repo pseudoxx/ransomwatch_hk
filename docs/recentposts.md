@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-08-20 | [`blowerdempsay.com`](https://google.com/search?q=blowerdempsay.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-08-20 | [`North Georgia Brick`](https://google.com/search?q=North+Georgia+Brick) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-08-20 | [`Akkanat Holding`](https://google.com/search?q=Akkanat+Holding) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-08-19 | [`imobesidade.com.br`](https://google.com/search?q=imobesidade.com.br) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-08-01 | [`www.erma-rtmo.it/`](https://google.com/search?q=www.erma-rtmo.it%2F) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-08-01 | [`www.byzan.com/`](https://google.com/search?q=www.byzan.com%2F) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-08-01 | [`www.benchinternational.com/`](https://google.com/search?q=www.benchinternational.com%2F) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-08-01 | [`www.baiminstitute.org/`](https://google.com/search?q=www.baiminstitute.org%2F) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
