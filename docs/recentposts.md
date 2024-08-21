@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-08-21 | [`Codival`](https://google.com/search?q=Codival) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
 | 2024-08-20 | [`jpoint.in`](https://google.com/search?q=jpoint.in) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
 | 2024-08-20 | [`inlighten.net`](https://google.com/search?q=inlighten.net) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-08-20 | [`blowerdempsay.com`](https://google.com/search?q=blowerdempsay.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-08-01 | [`www.newcastlewa.gov/`](https://google.com/search?q=www.newcastlewa.gov%2F) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-08-01 | [`www.glowfm.nl/`](https://google.com/search?q=www.glowfm.nl%2F) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-08-01 | [`www.garudafood.com/`](https://google.com/search?q=www.garudafood.com%2F) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-08-01 | [`www.erma-rtmo.it/`](https://google.com/search?q=www.erma-rtmo.it%2F) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
