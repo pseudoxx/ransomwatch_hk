@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-08-21 | [`https://www.findel.co.uk`](https://google.com/search?q=https%3A%2F%2Fwww.findel.co.uk) | [cicada3301](https://ransomwatch.telemetry.ltd/#/profiles?id=cicada3301) |
 | 2024-08-21 | [`http://www.luigiconvertini.it`](https://google.com/search?q=http%3A%2F%2Fwww.luigiconvertini.it) | [ciphbit](https://ransomwatch.telemetry.ltd/#/profiles?id=ciphbit) |
 | 2024-08-21 | [`spvmhc.org`](https://google.com/search?q=spvmhc.org) | [abyss](https://ransomwatch.telemetry.ltd/#/profiles?id=abyss) |
 | 2024-08-21 | [`Olympus Financial`](https://google.com/search?q=Olympus+Financial) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-08-01 | [`stb.ro`](https://google.com/search?q=stb.ro) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
 | 2024-08-01 | [`fingersstore.com`](https://google.com/search?q=fingersstore.com) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
 | 2024-08-01 | [`www.whittakersystem.com/`](https://google.com/search?q=www.whittakersystem.com%2F) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-08-01 | [`www.riteaid.com/`](https://google.com/search?q=www.riteaid.com%2F) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
