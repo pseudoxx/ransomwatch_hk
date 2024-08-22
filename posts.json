@@ -62733,5 +62733,10 @@
         "post_title": "saudi arabia(general secretariat of the military service council)",
         "group_name": "ransomhub",
         "discovered": "2024-08-22 11:49:17.680511"
+    },
+    {
+        "post_title": "rylandpeters.com",
+        "group_name": "apt73",
+        "discovered": "2024-08-22 12:58:42.122720"
     }
 ]
