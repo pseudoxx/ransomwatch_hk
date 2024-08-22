@@ -4,6 +4,9 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-08-22 | [`https://ufcw135.com`](https://google.com/search?q=https%3A%2F%2Fufcw135.com) | [cicada3301](https://ransomwatch.telemetry.ltd/#/profiles?id=cicada3301) |
+| 2024-08-22 | [`https://www.ebapc.com`](https://google.com/search?q=https%3A%2F%2Fwww.ebapc.com) | [cicada3301](https://ransomwatch.telemetry.ltd/#/profiles?id=cicada3301) |
+| 2024-08-22 | [`Kronick Moskovitz Tiedemann & Girard`](https://google.com/search?q=Kronick+Moskovitz+Tiedemann+%26+Girard) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2024-08-22 | [`level.game`](https://google.com/search?q=level.game) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
 | 2024-08-22 | [`antaeustravel.com`](https://google.com/search?q=antaeustravel.com) | [blackout](https://ransomwatch.telemetry.ltd/#/profiles?id=blackout) |
 | 2024-08-22 | [`rylandpeters.com`](https://google.com/search?q=rylandpeters.com) | [apt73](https://ransomwatch.telemetry.ltd/#/profiles?id=apt73) |
@@ -201,6 +204,3 @@ _last `200` posts_
 | 2024-08-01 | [`mcdowallaffleck.com.au`](https://google.com/search?q=mcdowallaffleck.com.au) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-08-01 | [`warrendale-wagyu.co.uk`](https://google.com/search?q=warrendale-wagyu.co.uk) | [darkvault](https://ransomwatch.telemetry.ltd/#/profiles?id=darkvault) |
 | 2024-08-01 | [`text/html; charset=utf-8`](https://google.com/search?q=text%2Fhtml%3B+charset%3Dutf-8) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-08-01 | [`effinghamschools.com`](https://google.com/search?q=effinghamschools.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-08-01 | [`Adorna & Guzman Dentistry`](https://google.com/search?q=Adorna+%26+Guzman+Dentistry) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
-| 2024-08-01 | [`https://www.acsi.org/`](https://google.com/search?q=https%3A%2F%2Fwww.acsi.org%2F) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
