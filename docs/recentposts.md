@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-08-23 | [`www.seaeng.com`](https://google.com/search?q=www.seaeng.com) | [dAn0n](https://ransomwatch.telemetry.ltd/#/profiles?id=dAn0n) |
 | 2024-08-22 | [`https://saeilo.com`](https://google.com/search?q=https%3A%2F%2Fsaeilo.com) | [metaencryptor](https://ransomwatch.telemetry.ltd/#/profiles?id=metaencryptor) |
 | 2024-08-22 | [`schoolrush.com`](https://google.com/search?q=schoolrush.com) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
 | 2024-08-22 | [`instadriver.co`](https://google.com/search?q=instadriver.co) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-08-02 | [`q-cells.de`](https://google.com/search?q=q-cells.de) | [abyss](https://ransomwatch.telemetry.ltd/#/profiles?id=abyss) |
 | 2024-08-02 | [`Veren Inc and Crescent Point Energy`](https://google.com/search?q=Veren+Inc+and+Crescent+Point+Energy) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2024-08-02 | [`https://www.valleybulkinc.com`](https://google.com/search?q=https%3A%2F%2Fwww.valleybulkinc.com) | [cicada3301](https://ransomwatch.telemetry.ltd/#/profiles?id=cicada3301) |
-| 2024-08-01 | [`ENEA Italy`](https://google.com/search?q=ENEA+Italy) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
