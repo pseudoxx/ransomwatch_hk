@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-08-23 | [`idahopacific.com`](https://google.com/search?q=idahopacific.com) | [abyss](https://ransomwatch.telemetry.ltd/#/profiles?id=abyss) |
 | 2024-08-23 | [`Crimson Interactive`](https://google.com/search?q=Crimson+Interactive) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-08-23 | [`www.seaeng.com`](https://google.com/search?q=www.seaeng.com) | [dAn0n](https://ransomwatch.telemetry.ltd/#/profiles?id=dAn0n) |
 | 2024-08-22 | [`https://saeilo.com`](https://google.com/search?q=https%3A%2F%2Fsaeilo.com) | [metaencryptor](https://ransomwatch.telemetry.ltd/#/profiles?id=metaencryptor) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-08-02 | [`Keystone Engineering`](https://google.com/search?q=Keystone+Engineering) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
 | 2024-08-02 | [`Kemlon Products &amp; Development Co Inc`](https://google.com/search?q=Kemlon+Products+%26amp%3B+Development+Co+Inc) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
 | 2024-08-02 | [`q-cells.de`](https://google.com/search?q=q-cells.de) | [abyss](https://ransomwatch.telemetry.ltd/#/profiles?id=abyss) |
-| 2024-08-02 | [`Veren Inc and Crescent Point Energy`](https://google.com/search?q=Veren+Inc+and+Crescent+Point+Energy) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
