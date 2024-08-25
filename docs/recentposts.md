@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-08-25 | [`autonomous.ai`](https://google.com/search?q=autonomous.ai) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
 | 2024-08-25 | [`prasarana.com.my`](https://google.com/search?q=prasarana.com.my) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-08-25 | [`Sable International`](https://google.com/search?q=Sable+International) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-08-24 | [`https://www.nwcsb.com`](https://google.com/search?q=https%3A%2F%2Fwww.nwcsb.com) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-08-04 | [`Ranney School`](https://google.com/search?q=Ranney+School) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2024-08-03 | [`hlbpr.com`](https://google.com/search?q=hlbpr.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-08-03 | [`nursing.com`](https://google.com/search?q=nursing.com) | [ransomexx](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomexx) |
-| 2024-08-03 | [`LRN`](https://google.com/search?q=LRN) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
