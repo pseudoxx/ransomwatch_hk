@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-08-26 | [`Blue Maven Group - Press Release`](https://google.com/search?q=Blue+Maven+Group+-+Press+Release) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
 | 2024-08-26 | [`US Marshals Service`](https://google.com/search?q=US+Marshals+Service) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-08-26 | [`NewsBank`](https://google.com/search?q=NewsBank) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2024-08-25 | [`onedayonly.co.za`](https://google.com/search?q=onedayonly.co.za) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-08-06 | [`dahlvalve.com\$23.9M\Canada\80GB\100% DISCLOSED`](https://google.com/search?q=dahlvalve.com%5C%2423.9M%5CCanada%5C80GB%5C100%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2024-08-05 | [`https://silipos.com`](https://google.com/search?q=https%3A%2F%2Fsilipos.com) | [cicada3301](https://ransomwatch.telemetry.ltd/#/profiles?id=cicada3301) |
 | 2024-08-05 | [`https://www.squareonecoatingsystems.com`](https://google.com/search?q=https%3A%2F%2Fwww.squareonecoatingsystems.com) | [cicada3301](https://ransomwatch.telemetry.ltd/#/profiles?id=cicada3301) |
-| 2024-08-05 | [`Speed Advisory Data Leak`](https://google.com/search?q=Speed+Advisory+Data+Leak) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
