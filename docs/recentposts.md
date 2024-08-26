@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-08-26 | [`www.patelco.org&lt;Disclose&gt;`](https://google.com/search?q=www.patelco.org%26lt%3BDisclose%26gt%3B) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
+| 2024-08-26 | [`Brookshire Dental - Hospitals &amp; Clinics`](https://google.com/search?q=Brookshire+Dental+-+Hospitals+%26amp%3B+Clinics) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2024-08-26 | [`htsusa.com`](https://google.com/search?q=htsusa.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-08-26 | [`www.spie-tec.de`](https://google.com/search?q=www.spie-tec.de) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-08-26 | [`https://www.widex.com`](https://google.com/search?q=https%3A%2F%2Fwww.widex.com) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2024-08-06 | [`Alternate Energy`](https://google.com/search?q=Alternate+Energy) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-08-06 | [`https://biw-burger.de`](https://google.com/search?q=https%3A%2F%2Fbiw-burger.de) | [alphalocker](https://ransomwatch.telemetry.ltd/#/profiles?id=alphalocker) |
 | 2024-08-06 | [`Omni Family Health`](https://google.com/search?q=Omni+Family+Health) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
-| 2024-08-06 | [`www.sobha.com`](https://google.com/search?q=www.sobha.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-08-06 | [`Casco Antiguo`](https://google.com/search?q=Casco+Antiguo) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
