@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-08-28 | [`comtruck.ca`](https://google.com/search?q=comtruck.ca) | [abyss](https://ransomwatch.telemetry.ltd/#/profiles?id=abyss) |
 | 2024-08-28 | [`dpfza.gov.dj`](https://google.com/search?q=dpfza.gov.dj) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-08-28 | [`www.polycohealthline.com`](https://google.com/search?q=www.polycohealthline.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-08-28 | [`Rinehart Butler Hodge Moss & Bryant`](https://google.com/search?q=Rinehart+Butler+Hodge+Moss+%26+Bryant) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-08-07 | [`Arcmed Group`](https://google.com/search?q=Arcmed+Group) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-08-07 | [`hudsoncivil.com.au`](https://google.com/search?q=hudsoncivil.com.au) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-08-07 | [`www.jgsummit.com.ph`](https://google.com/search?q=www.jgsummit.com.ph) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-08-07 | [`Bayhealth Hospital`](https://google.com/search?q=Bayhealth+Hospital) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
