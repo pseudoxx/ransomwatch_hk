@@ -4,6 +4,10 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-08-28 | [`Cherny, P.C.`](https://google.com/search?q=Cherny%2C+P.C.) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
+| 2024-08-28 | [`Holden`](https://google.com/search?q=Holden) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
+| 2024-08-28 | [`M.Royo and KlockMetal`](https://google.com/search?q=M.Royo+and+KlockMetal) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
+| 2024-08-28 | [`Scott Pharma Solutions`](https://google.com/search?q=Scott+Pharma+Solutions) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-08-28 | [`freshairefranchise.com`](https://google.com/search?q=freshairefranchise.com) | [darkvault](https://ransomwatch.telemetry.ltd/#/profiles?id=darkvault) |
 | 2024-08-28 | [`comtruck.ca`](https://google.com/search?q=comtruck.ca) | [abyss](https://ransomwatch.telemetry.ltd/#/profiles?id=abyss) |
 | 2024-08-28 | [`dpfza.gov.dj`](https://google.com/search?q=dpfza.gov.dj) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
@@ -200,7 +204,3 @@ _last `200` posts_
 | 2024-08-08 | [`mihlfeld.com\$88.2M\USA\316GB\&lt;1% DISCLOSED`](https://google.com/search?q=mihlfeld.com%5C%2488.2M%5CUSA%5C316GB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2024-08-08 | [`comoferta.com`](https://google.com/search?q=comoferta.com) | [darkvault](https://ransomwatch.telemetry.ltd/#/profiles?id=darkvault) |
 | 2024-08-08 | [`mercadomineiro.com.br`](https://google.com/search?q=mercadomineiro.com.br) | [darkvault](https://ransomwatch.telemetry.ltd/#/profiles?id=darkvault) |
-| 2024-08-08 | [`NIDEC CORPORATION`](https://google.com/search?q=NIDEC+CORPORATION) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
-| 2024-08-08 | [`Horizon View Medical Center`](https://google.com/search?q=Horizon+View+Medical+Center) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
-| 2024-08-07 | [`Arcmed Group`](https://google.com/search?q=Arcmed+Group) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
-| 2024-08-07 | [`hudsoncivil.com.au`](https://google.com/search?q=hudsoncivil.com.au) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
