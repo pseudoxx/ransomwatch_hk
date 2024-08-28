@@ -4,6 +4,13 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-08-28 | [`tjs.com`](https://google.com/search?q=tjs.com) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
+| 2024-08-28 | [`Universal Pure`](https://google.com/search?q=Universal+Pure) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2024-08-28 | [`Software Engineering Associates`](https://google.com/search?q=Software+Engineering+Associates) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2024-08-28 | [`Omicron Granite & Tile`](https://google.com/search?q=Omicron+Granite+%26+Tile) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2024-08-28 | [`GDB International`](https://google.com/search?q=GDB+International) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2024-08-28 | [`Clabots`](https://google.com/search?q=Clabots) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2024-08-28 | [`ABC Parts International`](https://google.com/search?q=ABC+Parts+International) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-08-28 | [`Network Communications Group`](https://google.com/search?q=Network+Communications+Group) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2024-08-28 | [`JM Thompson`](https://google.com/search?q=JM+Thompson) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2024-08-28 | [`medisetter.com`](https://google.com/search?q=medisetter.com) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
@@ -197,10 +204,3 @@ _last `200` posts_
 | 2024-08-09 | [`golfoy.com`](https://google.com/search?q=golfoy.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-08-08 | [`icarasia.com`](https://google.com/search?q=icarasia.com) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
 | 2024-08-08 | [`rationalenterprise.com`](https://google.com/search?q=rationalenterprise.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-08-08 | [`inv-dar.com`](https://google.com/search?q=inv-dar.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-08-08 | [`modernceramics.com`](https://google.com/search?q=modernceramics.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-08-08 | [`Gramercy Surgery Center Data Leak`](https://google.com/search?q=Gramercy+Surgery+Center+Data+Leak) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
-| 2024-08-08 | [`Gramercy Surgery Center  Data  Leak`](https://google.com/search?q=Gramercy+Surgery+Center++Data++Leak) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
-| 2024-08-08 | [`https://imagemicro.com/`](https://google.com/search?q=https%3A%2F%2Fimagemicro.com%2F) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
-| 2024-08-08 | [`[DISCLOSED] Al-Karam Textile Mills Pvt`](https://google.com/search?q=%5BDISCLOSED%5D+Al-Karam+Textile+Mills+Pvt) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
-| 2024-08-08 | [`demos.fr\$37.5M\France\870GB\100% DISCLOSED`](https://google.com/search?q=demos.fr%5C%2437.5M%5CFrance%5C870GB%5C100%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
