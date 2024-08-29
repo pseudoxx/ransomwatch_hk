@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-08-29 | [`lmgroup.com&lt;Disclose&gt;`](https://google.com/search?q=lmgroup.com%26lt%3BDisclose%26gt%3B) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-08-29 | [`glasstile.com`](https://google.com/search?q=glasstile.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-08-29 | [`Corbally Gartland and Rappleyea`](https://google.com/search?q=Corbally+Gartland+and+Rappleyea) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2024-08-29 | [`ccj.edu.lb`](https://google.com/search?q=ccj.edu.lb) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-08-10 | [`Brontoo Technology Solutions`](https://google.com/search?q=Brontoo+Technology+Solutions) | [ransomexx](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomexx) |
 | 2024-08-09 | [`https://www.arkworkplacerisk.co.uk`](https://google.com/search?q=https%3A%2F%2Fwww.arkworkplacerisk.co.uk) | [alphalocker](https://ransomwatch.telemetry.ltd/#/profiles?id=alphalocker) |
 | 2024-08-09 | [`Nilorngruppen AB`](https://google.com/search?q=Nilorngruppen+AB) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2024-08-09 | [`Credible Group`](https://google.com/search?q=Credible+Group) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
