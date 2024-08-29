@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-08-29 | [`https://christen-sanitaer.ch/`](https://google.com/search?q=https%3A%2F%2Fchristen-sanitaer.ch%2F) | [cicada3301](https://ransomwatch.telemetry.ltd/#/profiles?id=cicada3301) |
+| 2024-08-29 | [`https://bayoudesiardcc.com`](https://google.com/search?q=https%3A%2F%2Fbayoudesiardcc.com) | [cicada3301](https://ransomwatch.telemetry.ltd/#/profiles?id=cicada3301) |
 | 2024-08-28 | [`rainierarms.com`](https://google.com/search?q=rainierarms.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-08-28 | [`Epi Breads`](https://google.com/search?q=Epi+Breads) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-08-28 | [`tjs.com`](https://google.com/search?q=tjs.com) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2024-08-09 | [`dhcgrp.com`](https://google.com/search?q=dhcgrp.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-08-09 | [`www.dunnsolutions.com`](https://google.com/search?q=www.dunnsolutions.com) | [dAn0n](https://ransomwatch.telemetry.ltd/#/profiles?id=dAn0n) |
 | 2024-08-09 | [`Sumter County Sheriff`](https://google.com/search?q=Sumter+County+Sheriff) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
-| 2024-08-09 | [`pierrediamonds.com.au`](https://google.com/search?q=pierrediamonds.com.au) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-08-09 | [`golfoy.com`](https://google.com/search?q=golfoy.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
