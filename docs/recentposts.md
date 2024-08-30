@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-08-30 | [`Navitas Semiconductor`](https://google.com/search?q=Navitas+Semiconductor) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-08-29 | [`https://www.clatronic.com/`](https://google.com/search?q=https%3A%2F%2Fwww.clatronic.com%2F) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
 | 2024-08-29 | [`http://www.hollywoodburbankairport.com`](https://google.com/search?q=http%3A%2F%2Fwww.hollywoodburbankairport.com) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
 | 2024-08-29 | [`Risser Oil`](https://google.com/search?q=Risser+Oil) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-08-11 | [`robertshvac.com`](https://google.com/search?q=robertshvac.com) | [abyss](https://ransomwatch.telemetry.ltd/#/profiles?id=abyss) |
 | 2024-08-11 | [`Moser Wealth Advisors`](https://google.com/search?q=Moser+Wealth+Advisors) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2024-08-11 | [`Hanon Systems`](https://google.com/search?q=Hanon+Systems) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
-| 2024-08-10 | [`lmgroup.com`](https://google.com/search?q=lmgroup.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
