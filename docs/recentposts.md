@@ -4,6 +4,12 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-08-30 | [`www.citebd.org`](https://google.com/search?q=www.citebd.org) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
+| 2024-08-30 | [`Wayne Wright, LLP.`](https://google.com/search?q=Wayne+Wright%2C+LLP.) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
+| 2024-08-30 | [`ICWI`](https://google.com/search?q=ICWI) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
+| 2024-08-30 | [`Eric Rossi CPA LLC`](https://google.com/search?q=Eric+Rossi+CPA+LLC) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
+| 2024-08-30 | [`Lane Supply Inc.`](https://google.com/search?q=Lane+Supply+Inc.) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
+| 2024-08-30 | [`Stein Fibers`](https://google.com/search?q=Stein+Fibers) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-08-30 | [`Navitas Semiconductor`](https://google.com/search?q=Navitas+Semiconductor) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-08-29 | [`https://www.clatronic.com/`](https://google.com/search?q=https%3A%2F%2Fwww.clatronic.com%2F) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
 | 2024-08-29 | [`http://www.hollywoodburbankairport.com`](https://google.com/search?q=http%3A%2F%2Fwww.hollywoodburbankairport.com) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
@@ -198,9 +204,3 @@ _last `200` posts_
 | 2024-08-12 | [`[DISCLOSED] Ronglian Group [Source code of RONGLIAN GROUP company developments]`](https://google.com/search?q=%5BDISCLOSED%5D+Ronglian+Group+%5BSource+code+of+RONGLIAN+GROUP+company+developments%5D) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2024-08-11 | [`naturalcuriosities.com`](https://google.com/search?q=naturalcuriosities.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-08-11 | [`TelPro`](https://google.com/search?q=TelPro) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2024-08-11 | [`Jeffersoncountyclerk.org`](https://google.com/search?q=Jeffersoncountyclerk.org) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-08-11 | [`Amco Metal Industrial Corporation`](https://google.com/search?q=Amco+Metal+Industrial+Corporation) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
-| 2024-08-11 | [`alliuminteriors.co.nz`](https://google.com/search?q=alliuminteriors.co.nz) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-08-11 | [`robertshvac.com`](https://google.com/search?q=robertshvac.com) | [abyss](https://ransomwatch.telemetry.ltd/#/profiles?id=abyss) |
-| 2024-08-11 | [`Moser Wealth Advisors`](https://google.com/search?q=Moser+Wealth+Advisors) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
-| 2024-08-11 | [`Hanon Systems`](https://google.com/search?q=Hanon+Systems) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
