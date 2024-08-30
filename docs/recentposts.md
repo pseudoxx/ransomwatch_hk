@@ -4,6 +4,17 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-08-30 | [`www.ramoncorripio.com`](https://google.com/search?q=www.ramoncorripio.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
+| 2024-08-30 | [`www.iiitd.ac.in`](https://google.com/search?q=www.iiitd.ac.in) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
+| 2024-08-30 | [`www.swinburne.edu`](https://google.com/search?q=www.swinburne.edu) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
+| 2024-08-30 | [`www.mineduc.gob.gt`](https://google.com/search?q=www.mineduc.gob.gt) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
+| 2024-08-30 | [`www.primariatm.ro`](https://google.com/search?q=www.primariatm.ro) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
+| 2024-08-30 | [`www.suvacity.org`](https://google.com/search?q=www.suvacity.org) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
+| 2024-08-30 | [`www.iph-bet.fr`](https://google.com/search?q=www.iph-bet.fr) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
+| 2024-08-30 | [`www.johnkellys.com`](https://google.com/search?q=www.johnkellys.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
+| 2024-08-30 | [`www.fenceauthority.com`](https://google.com/search?q=www.fenceauthority.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
+| 2024-08-30 | [`www.gruyeria.ch`](https://google.com/search?q=www.gruyeria.ch) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
+| 2024-08-30 | [`www.lfewines.com`](https://google.com/search?q=www.lfewines.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-08-30 | [`www.citebd.org`](https://google.com/search?q=www.citebd.org) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-08-30 | [`Wayne Wright, LLP.`](https://google.com/search?q=Wayne+Wright%2C+LLP.) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-08-30 | [`ICWI`](https://google.com/search?q=ICWI) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
@@ -193,14 +204,3 @@ _last `200` posts_
 | 2024-08-13 | [`gpf.org.za`](https://google.com/search?q=gpf.org.za) | [darkvault](https://ransomwatch.telemetry.ltd/#/profiles?id=darkvault) |
 | 2024-08-13 | [`Southwest Family Medicine Associates`](https://google.com/search?q=Southwest+Family+Medicine+Associates) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-08-13 | [`lenmed.co.za`](https://google.com/search?q=lenmed.co.za) | [darkvault](https://ransomwatch.telemetry.ltd/#/profiles?id=darkvault) |
-| 2024-08-13 | [`https://www.banneracc.com/`](https://google.com/search?q=https%3A%2F%2Fwww.banneracc.com%2F) | [trinity](https://ransomwatch.telemetry.ltd/#/profiles?id=trinity) |
-| 2024-08-13 | [`Banner and Associates`](https://google.com/search?q=Banner+and+Associates) | [trinity](https://ransomwatch.telemetry.ltd/#/profiles?id=trinity) |
-| 2024-08-13 | [`glazkov.co.il`](https://google.com/search?q=glazkov.co.il) | [darkvault](https://ransomwatch.telemetry.ltd/#/profiles?id=darkvault) |
-| 2024-08-13 | [`https://www.vvs-eksperten.dk`](https://google.com/search?q=https%3A%2F%2Fwww.vvs-eksperten.dk) | [cicada3301](https://ransomwatch.telemetry.ltd/#/profiles?id=cicada3301) |
-| 2024-08-12 | [`NetOne`](https://google.com/search?q=NetOne) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
-| 2024-08-12 | [`bedford.k12.oh.us`](https://google.com/search?q=bedford.k12.oh.us) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-08-12 | [`https://www.vvs-eksperten.dk/`](https://google.com/search?q=https%3A%2F%2Fwww.vvs-eksperten.dk%2F) | [cicada3301](https://ransomwatch.telemetry.ltd/#/profiles?id=cicada3301) |
-| 2024-08-12 | [`Brookshire Dental`](https://google.com/search?q=Brookshire+Dental) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
-| 2024-08-12 | [`[DISCLOSED] Ronglian Group [Source code of RONGLIAN GROUP company developments]`](https://google.com/search?q=%5BDISCLOSED%5D+Ronglian+Group+%5BSource+code+of+RONGLIAN+GROUP+company+developments%5D) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
-| 2024-08-11 | [`naturalcuriosities.com`](https://google.com/search?q=naturalcuriosities.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-08-11 | [`TelPro`](https://google.com/search?q=TelPro) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
