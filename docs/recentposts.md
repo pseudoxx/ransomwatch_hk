@@ -4,6 +4,16 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-08-30 | [`grant-associates.uk.com`](https://google.com/search?q=grant-associates.uk.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
+| 2024-08-30 | [`pfsbrands.com`](https://google.com/search?q=pfsbrands.com) | [abyss](https://ransomwatch.telemetry.ltd/#/profiles?id=abyss) |
+| 2024-08-30 | [`Richmond Auto Mall`](https://google.com/search?q=Richmond+Auto+Mall) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
+| 2024-08-30 | [`Seng Tsoi Architect`](https://google.com/search?q=Seng+Tsoi+Architect) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
+| 2024-08-30 | [`Raeyco Lab Equipment Systems Management`](https://google.com/search?q=Raeyco+Lab+Equipment+Systems+Management) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
+| 2024-08-30 | [`Welding and Fabrication (humblemfg)`](https://google.com/search?q=Welding+and+Fabrication+%28humblemfg%29) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
+| 2024-08-30 | [`City Projects`](https://google.com/search?q=City+Projects) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
+| 2024-08-30 | [`Prism Construction`](https://google.com/search?q=Prism+Construction) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
+| 2024-08-30 | [`Cotala Cross-Media`](https://google.com/search?q=Cotala+Cross-Media) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
+| 2024-08-30 | [`Phyton Biotech`](https://google.com/search?q=Phyton+Biotech) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
 | 2024-08-30 | [`Burgess Kilpartik`](https://google.com/search?q=Burgess+Kilpartik) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
 | 2024-08-30 | [`www.timortelecom.tl`](https://google.com/search?q=www.timortelecom.tl) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-08-30 | [`www.ramoncorripio.com`](https://google.com/search?q=www.ramoncorripio.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
@@ -194,13 +204,3 @@ _last `200` posts_
 | 2024-08-14 | [`Thompson Davis and Co`](https://google.com/search?q=Thompson+Davis+and+Co) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-08-14 | [`https://rplfirm.com`](https://google.com/search?q=https%3A%2F%2Frplfirm.com) | [cicada3301](https://ransomwatch.telemetry.ltd/#/profiles?id=cicada3301) |
 | 2024-08-14 | [`mmtransport.com`](https://google.com/search?q=mmtransport.com) | [dAn0n](https://ransomwatch.telemetry.ltd/#/profiles?id=dAn0n) |
-| 2024-08-13 | [`http://www.forrec.it`](https://google.com/search?q=http%3A%2F%2Fwww.forrec.it) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
-| 2024-08-13 | [`Parker Development Company`](https://google.com/search?q=Parker+Development+Company) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2024-08-13 | [`M??? ????k ??????`](https://google.com/search?q=M%3F%3F%3F+%3F%3F%3F%3Fk+%3F%3F%3F%3F%3F%3F) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2024-08-13 | [`Erie Meats`](https://google.com/search?q=Erie+Meats) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2024-08-13 | [`CinemaTech`](https://google.com/search?q=CinemaTech) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2024-08-13 | [`Air International Thermal Systems`](https://google.com/search?q=Air+International+Thermal+Systems) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2024-08-13 | [`Adina Design`](https://google.com/search?q=Adina+Design) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2024-08-13 | [`infotexim.pe&lt;Auction&gt;`](https://google.com/search?q=infotexim.pe%26lt%3BAuction%26gt%3B) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-08-13 | [`The White Center Community Development Association`](https://google.com/search?q=The+White+Center+Community+Development+Association) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
-| 2024-08-13 | [`gpf.org.za`](https://google.com/search?q=gpf.org.za) | [darkvault](https://ransomwatch.telemetry.ltd/#/profiles?id=darkvault) |
