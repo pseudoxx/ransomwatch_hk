@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-08-31 | [`https://www.khoocpa.com/`](https://google.com/search?q=https%3A%2F%2Fwww.khoocpa.com%2F) | [cicada3301](https://ransomwatch.telemetry.ltd/#/profiles?id=cicada3301) |
 | 2024-08-31 | [`http://www.bfcpas.com/`](https://google.com/search?q=http%3A%2F%2Fwww.bfcpas.com%2F) | [cicada3301](https://ransomwatch.telemetry.ltd/#/profiles?id=cicada3301) |
 | 2024-08-31 | [`https://www.blvdresidential.com/`](https://google.com/search?q=https%3A%2F%2Fwww.blvdresidential.com%2F) | [cicada3301](https://ransomwatch.telemetry.ltd/#/profiles?id=cicada3301) |
 | 2024-08-31 | [`https://www.brooker-cpa.com`](https://google.com/search?q=https%3A%2F%2Fwww.brooker-cpa.com) | [cicada3301](https://ransomwatch.telemetry.ltd/#/profiles?id=cicada3301) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-08-14 | [`The Washington Times`](https://google.com/search?q=The+Washington+Times) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2024-08-14 | [`Boni`](https://google.com/search?q=Boni) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-08-14 | [`police.praca.gov.pl`](https://google.com/search?q=police.praca.gov.pl) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-08-14 | [`Drug Testing Service`](https://google.com/search?q=Drug+Testing+Service) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
