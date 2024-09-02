@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-09-02 | [`www.sanyo-av.com&lt;Taiwan&gt;`](https://google.com/search?q=www.sanyo-av.com%26lt%3BTaiwan%26gt%3B) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-09-02 | [`www.schneider.ch`](https://google.com/search?q=www.schneider.ch) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-09-02 | [`www.electriforce.com`](https://google.com/search?q=www.electriforce.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-09-01 | [`Quálitas México`](https://google.com/search?q=Qu%C3%A1litas+M%C3%A9xico) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-08-15 | [`ljglaw.com`](https://google.com/search?q=ljglaw.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-08-15 | [`www.aaconsultinc.com`](https://google.com/search?q=www.aaconsultinc.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-08-15 | [`Mill Creek Lumber`](https://google.com/search?q=Mill+Creek+Lumber) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2024-08-15 | [`www.prinsotel.com`](https://google.com/search?q=www.prinsotel.com) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
