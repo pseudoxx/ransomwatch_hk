@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-09-03 | [`bluemaven.ca problems`](https://google.com/search?q=bluemaven.ca+problems) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
 | 2024-09-02 | [`Removal.AI`](https://google.com/search?q=Removal.AI) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-09-02 | [`www.amberbev.com`](https://google.com/search?q=www.amberbev.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-09-02 | [`www.sanyo-bussan.co.jp`](https://google.com/search?q=www.sanyo-bussan.co.jp) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-08-16 | [`on365.co.uk`](https://google.com/search?q=on365.co.uk) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2024-08-16 | [`ccj.edu.lb `](https://google.com/search?q=ccj.edu.lb+) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2024-08-16 | [`Hiesmayr Haustechnik`](https://google.com/search?q=Hiesmayr+Haustechnik) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
-| 2024-08-16 | [`[DISCLOSED] Valisana`](https://google.com/search?q=%5BDISCLOSED%5D+Valisana) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
