@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-09-03 | [`gardenhomesmanagement.com`](https://google.com/search?q=gardenhomesmanagement.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
+| 2024-09-03 | [`rangeramerican.com\$52.9M\USA\218GB\&lt;1% DISCLOSED`](https://google.com/search?q=rangeramerican.com%5C%2452.9M%5CUSA%5C218GB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2024-09-03 | [`wilmingtoncc.org`](https://google.com/search?q=wilmingtoncc.org) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-09-03 | [`simson-maxwell.com\$29.4M\Canada\357GB\&lt;1% DISCLOSED`](https://google.com/search?q=simson-maxwell.com%5C%2429.4M%5CCanada%5C357GB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2024-09-03 | [`flodraulic.com\$58.4M\USA\32GB\&lt;1% DISCLOSED`](https://google.com/search?q=flodraulic.com%5C%2458.4M%5CUSA%5C32GB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
@@ -202,5 +204,3 @@ _last `200` posts_
 | 2024-08-17 | [`www.wmwmeyer.com`](https://google.com/search?q=www.wmwmeyer.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-08-16 | [`www.vinakom.com`](https://google.com/search?q=www.vinakom.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-08-16 | [`http://www.keios.it`](https://google.com/search?q=http%3A%2F%2Fwww.keios.it) | [ciphbit](https://ransomwatch.telemetry.ltd/#/profiles?id=ciphbit) |
-| 2024-08-16 | [`https://tp.kadokawa.co.jp/`](https://google.com/search?q=https%3A%2F%2Ftp.kadokawa.co.jp%2F) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
-| 2024-08-16 | [`www.patelco.org&lt;Auction&gt;`](https://google.com/search?q=www.patelco.org%26lt%3BAuction%26gt%3B) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
