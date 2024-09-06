@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-09-06 | [`briedis.lt`](https://google.com/search?q=briedis.lt) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-09-06 | [`CK Associates`](https://google.com/search?q=CK+Associates) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-09-06 | [`Keya Accounting and Tax Services LLC`](https://google.com/search?q=Keya+Accounting+and+Tax+Services+LLC) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-09-06 | [`SESAM Informatics`](https://google.com/search?q=SESAM+Informatics) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-08-21 | [`www.pindrophearing.co.uk`](https://google.com/search?q=www.pindrophearing.co.uk) | [apt73](https://ransomwatch.telemetry.ltd/#/profiles?id=apt73) |
 | 2024-08-21 | [`www.banhampoultry.co.uk`](https://google.com/search?q=www.banhampoultry.co.uk) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-08-21 | [`HOERBIGER Holding`](https://google.com/search?q=HOERBIGER+Holding) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
-| 2024-08-21 | [`Co`](https://google.com/search?q=Co) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
