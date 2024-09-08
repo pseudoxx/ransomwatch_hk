@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-09-08 | [`Stratford School Academy`](https://google.com/search?q=Stratford+School+Academy) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2024-09-07 | [`cardiovirginia.com`](https://google.com/search?q=cardiovirginia.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-09-07 | [`Millsboro Animal Hospital`](https://google.com/search?q=Millsboro+Animal+Hospital) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2024-09-07 | [`NIDEC CORPORATION Data Leak`](https://google.com/search?q=NIDEC+CORPORATION+Data+Leak) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-08-21 | [`RCG`](https://google.com/search?q=RCG) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-08-21 | [`Policy Administration Solutions`](https://google.com/search?q=Policy+Administration+Solutions) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-08-21 | [`Jinny Corporation`](https://google.com/search?q=Jinny+Corporation) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
-| 2024-08-21 | [`capitalfund1.com`](https://google.com/search?q=capitalfund1.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
