@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-09-09 | [`Phoenix Air Conditioning &amp; Heating`](https://google.com/search?q=Phoenix+Air+Conditioning+%26amp%3B+Heating) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2024-09-09 | [`Exitz Technologies`](https://google.com/search?q=Exitz+Technologies) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2024-09-09 | [`https://www.kashima-coat.com/`](https://google.com/search?q=https%3A%2F%2Fwww.kashima-coat.com%2F) | [cicada3301](https://ransomwatch.telemetry.ltd/#/profiles?id=cicada3301) |
 | 2024-09-08 | [`Stratford School Academy`](https://google.com/search?q=Stratford+School+Academy) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-08-21 | [`Quilvest Capital Partners`](https://google.com/search?q=Quilvest+Capital+Partners) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-08-21 | [`Grid Subject Matter Experts`](https://google.com/search?q=Grid+Subject+Matter+Experts) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-08-21 | [`Armour Coatings`](https://google.com/search?q=Armour+Coatings) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2024-08-21 | [`RCG`](https://google.com/search?q=RCG) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
