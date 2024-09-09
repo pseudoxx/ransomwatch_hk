@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-09-09 | [`Pennsylvania State Education Association`](https://google.com/search?q=Pennsylvania+State+Education+Association) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2024-09-09 | [`schynsassurances.be`](https://google.com/search?q=schynsassurances.be) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
 | 2024-09-09 | [`pv.be`](https://google.com/search?q=pv.be) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
 | 2024-09-09 | [`www.unige.it`](https://google.com/search?q=www.unige.it) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-08-22 | [`schoolrush.com`](https://google.com/search?q=schoolrush.com) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
 | 2024-08-22 | [`instadriver.co`](https://google.com/search?q=instadriver.co) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
 | 2024-08-22 | [`https://ufcw135.com`](https://google.com/search?q=https%3A%2F%2Fufcw135.com) | [cicada3301](https://ransomwatch.telemetry.ltd/#/profiles?id=cicada3301) |
-| 2024-08-22 | [`https://www.ebapc.com`](https://google.com/search?q=https%3A%2F%2Fwww.ebapc.com) | [cicada3301](https://ransomwatch.telemetry.ltd/#/profiles?id=cicada3301) |
