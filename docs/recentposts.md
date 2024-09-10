@@ -4,6 +4,9 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-09-10 | [`Weldco-Beales Manufacturing`](https://google.com/search?q=Weldco-Beales+Manufacturing) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2024-09-10 | [`PIGGLY WIGGLY ALABAMA DISTRIBUTING`](https://google.com/search?q=PIGGLY+WIGGLY+ALABAMA+DISTRIBUTING) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2024-09-10 | [`Evans Distribution Systems`](https://google.com/search?q=Evans+Distribution+Systems) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-09-10 | [`rupicard.com`](https://google.com/search?q=rupicard.com) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
 | 2024-09-10 | [`Virginia Dare Extract Co.`](https://google.com/search?q=Virginia+Dare+Extract+Co.) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-09-10 | [`Southeast Cooler`](https://google.com/search?q=Southeast+Cooler) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -201,6 +204,3 @@ _last `200` posts_
 | 2024-08-25 | [`Meli (BCYF &amp; Bethany) `](https://google.com/search?q=Meli+%28BCYF+%26amp%3B+Bethany%29+) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2024-08-25 | [`dt-technologies`](https://google.com/search?q=dt-technologies) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2024-08-25 | [`Affordable Tools`](https://google.com/search?q=Affordable+Tools) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
-| 2024-08-25 | [`autonomous.ai`](https://google.com/search?q=autonomous.ai) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
-| 2024-08-25 | [`prasarana.com.my`](https://google.com/search?q=prasarana.com.my) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-08-25 | [`Sable International`](https://google.com/search?q=Sable+International) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
