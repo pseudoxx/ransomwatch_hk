@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-09-10 | [`Bank Rakyat`](https://google.com/search?q=Bank+Rakyat) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-09-10 | [`americagraphics.com`](https://google.com/search?q=americagraphics.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-09-09 | [`Anniversary Holding`](https://google.com/search?q=Anniversary+Holding) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-09-09 | [`Battle Lumber Co.`](https://google.com/search?q=Battle+Lumber+Co.) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-08-23 | [`idahopacific.com`](https://google.com/search?q=idahopacific.com) | [abyss](https://ransomwatch.telemetry.ltd/#/profiles?id=abyss) |
 | 2024-08-23 | [`Crimson Interactive`](https://google.com/search?q=Crimson+Interactive) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-08-23 | [`www.seaeng.com`](https://google.com/search?q=www.seaeng.com) | [dAn0n](https://ransomwatch.telemetry.ltd/#/profiles?id=dAn0n) |
-| 2024-08-22 | [`https://saeilo.com`](https://google.com/search?q=https%3A%2F%2Fsaeilo.com) | [metaencryptor](https://ransomwatch.telemetry.ltd/#/profiles?id=metaencryptor) |
