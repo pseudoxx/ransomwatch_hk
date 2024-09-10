@@ -4,6 +4,12 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-09-10 | [`rupicard.com`](https://google.com/search?q=rupicard.com) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
+| 2024-09-10 | [`Virginia Dare Extract Co.`](https://google.com/search?q=Virginia+Dare+Extract+Co.) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2024-09-10 | [`Southeast Cooler`](https://google.com/search?q=Southeast+Cooler) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2024-09-10 | [`Joe Swartz Electric`](https://google.com/search?q=Joe+Swartz+Electric) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2024-09-10 | [`Elgin Separation Solutions`](https://google.com/search?q=Elgin+Separation+Solutions) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
+| 2024-09-10 | [`Bel-Air Bay Club`](https://google.com/search?q=Bel-Air+Bay+Club) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-09-10 | [`Vickers Engineering`](https://google.com/search?q=Vickers+Engineering) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-09-10 | [`HDI`](https://google.com/search?q=HDI) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-09-10 | [`https://www.kadokawa.co.jp/`](https://google.com/search?q=https%3A%2F%2Fwww.kadokawa.co.jp%2F) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
@@ -198,9 +204,3 @@ _last `200` posts_
 | 2024-08-25 | [`autonomous.ai`](https://google.com/search?q=autonomous.ai) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
 | 2024-08-25 | [`prasarana.com.my`](https://google.com/search?q=prasarana.com.my) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-08-25 | [`Sable International`](https://google.com/search?q=Sable+International) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2024-08-24 | [`https://www.nwcsb.com`](https://google.com/search?q=https%3A%2F%2Fwww.nwcsb.com) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
-| 2024-08-24 | [`ccsdschools.com&lt;disclose&gt;`](https://google.com/search?q=ccsdschools.com%26lt%3Bdisclose%26gt%3B) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2024-08-24 | [`https://www.hofmann-malerei.ch`](https://google.com/search?q=https%3A%2F%2Fwww.hofmann-malerei.ch) | [cicada3301](https://ransomwatch.telemetry.ltd/#/profiles?id=cicada3301) |
-| 2024-08-24 | [`ingotbrokers.com`](https://google.com/search?q=ingotbrokers.com) | [darkvault](https://ransomwatch.telemetry.ltd/#/profiles?id=darkvault) |
-| 2024-08-24 | [`Studio Legale Associato Isolabella`](https://google.com/search?q=Studio+Legale+Associato+Isolabella) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2024-08-23 | [`https://www.chamagaucha.com`](https://google.com/search?q=https%3A%2F%2Fwww.chamagaucha.com) | [cicada3301](https://ransomwatch.telemetry.ltd/#/profiles?id=cicada3301) |
