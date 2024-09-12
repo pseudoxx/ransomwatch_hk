@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-09-12 | [`thornton-inc.com`](https://google.com/search?q=thornton-inc.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-09-12 | [`mechdyne.com`](https://google.com/search?q=mechdyne.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-09-12 | [`CNPS Cameroun`](https://google.com/search?q=CNPS+Cameroun) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
 | 2024-09-12 | [`www.jatelindo.co.id`](https://google.com/search?q=www.jatelindo.co.id) | [stormous](https://ransomwatch.telemetry.ltd/#/profiles?id=stormous) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-08-26 | [`htsusa.com`](https://google.com/search?q=htsusa.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-08-26 | [`www.spie-tec.de`](https://google.com/search?q=www.spie-tec.de) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-08-26 | [`https://www.widex.com`](https://google.com/search?q=https%3A%2F%2Fwww.widex.com) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
-| 2024-08-26 | [`pocketrisk.com`](https://google.com/search?q=pocketrisk.com) | [darkvault](https://ransomwatch.telemetry.ltd/#/profiles?id=darkvault) |
