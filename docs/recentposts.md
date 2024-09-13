@@ -4,6 +4,9 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-09-13 | [`VIcom Corporation`](https://google.com/search?q=VIcom+Corporation) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
+| 2024-09-13 | [`HB Construction`](https://google.com/search?q=HB+Construction) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
+| 2024-09-13 | [`Associated Building Specialties`](https://google.com/search?q=Associated+Building+Specialties) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-09-13 | [`Arch-Con`](https://google.com/search?q=Arch-Con) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-09-13 | [`www.southeasternretina.com`](https://google.com/search?q=www.southeasternretina.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2024-09-12 | [`Kingsmill Resort`](https://google.com/search?q=Kingsmill+Resort) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
@@ -201,6 +204,3 @@ _last `200` posts_
 | 2024-08-27 | [`http://modelaircraft.org`](https://google.com/search?q=http%3A%2F%2Fmodelaircraft.org) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
 | 2024-08-27 | [`Crowe`](https://google.com/search?q=Crowe) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2024-08-27 | [`securityinstrument.com\$15.4M\USA\141GB\&lt;1% DISCLOSED`](https://google.com/search?q=securityinstrument.com%5C%2415.4M%5CUSA%5C141GB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
-| 2024-08-26 | [`Precom`](https://google.com/search?q=Precom) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2024-08-26 | [`Microchip Technology`](https://google.com/search?q=Microchip+Technology) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2024-08-26 | [`www.patelco.org&lt;Disclose&gt;`](https://google.com/search?q=www.patelco.org%26lt%3BDisclose%26gt%3B) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
